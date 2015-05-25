@@ -1,0 +1,913 @@
+Scan result of Farbar Recovery Scan Tool (FRST) (x64) Version: 25-05-2015
+Ran by Won (administrator) on VEX on 25-05-2015 11:01:05
+Running from C:\Users\Won\Downloads
+Loaded Profiles: Won (Available Profiles: Won)
+Platform: Windows 10 Home Insider Preview (X64) OS Language: English (United States)
+Internet Explorer Version 11 (Default browser: FF)
+Boot Mode: Normal
+Tutorial for Farbar Recovery Scan Tool: http://www.geekstogo.com/forum/topic/335081-frst-tutorial-how-to-use-farbar-recovery-scan-tool/
+
+==================== Processes (Whitelisted) =================
+
+(If an entry is included in the fixlist, the process will be closed. The file will not be moved.)
+
+(NVIDIA Corporation) C:\Program Files (x86)\NVIDIA Corporation\3D Vision\nvSCPAPISvr.exe
+(NVIDIA Corporation) C:\Windows\System32\nvvsvc.exe
+(NVIDIA Corporation) C:\Program Files\NVIDIA Corporation\Display\nvxdsync.exe
+(NVIDIA Corporation) C:\Windows\System32\nvvsvc.exe
+() C:\Program Files (x86)\ASUS\AXSP\1.01.02\atkexComSvc.exe
+(Microsoft Corporation) C:\Program Files (x86)\Skype\Toolbars\AutoUpdate\SkypeC2CAutoUpdateSvc.exe
+(Kaspersky Lab ZAO) C:\Program Files (x86)\Kaspersky Lab\Kaspersky Total Security 15.0.2\avp.exe
+(Microsoft Corporation) C:\Program Files (x86)\Skype\Toolbars\PNRSvc\SkypeC2CPNRSvc.exe
+(Adobe Systems Incorporated) C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\ElevationManager\AdobeUpdateService.exe
+(DTS, Inc) C:\Program Files\Realtek\Audio\HDA\DTSU2PAuSrv64.exe
+(Microsoft Corporation) C:\Program Files (x86)\Common Files\Microsoft Shared\Phone Tools\CoreCon\11.0\bin\IpOverUsbSvc.exe
+(NVIDIA Corporation) C:\Program Files\NVIDIA Corporation\GeForce Experience Service\GfExperienceService.exe
+(Microsoft Corporation) C:\Windows\System32\dasHost.exe
+(Malwarebytes Corporation) C:\Program Files (x86)\Malwarebytes Anti-Malware\mbamscheduler.exe
+(Malwarebytes Corporation) C:\Program Files (x86)\Malwarebytes Anti-Malware\mbamservice.exe
+(NVIDIA Corporation) C:\Program Files (x86)\NVIDIA Corporation\NetService\NvNetworkService.exe
+(NVIDIA Corporation) C:\Program Files\NVIDIA Corporation\NvStreamSrv\nvstreamsvc.exe
+(Microsoft Corporation) C:\Program Files\Microsoft SQL Server\90\Shared\sqlwriter.exe
+(Microsoft Corporation) C:\Program Files\Windows Defender\MsMpEng.exe
+(Microsoft Corporation) C:\Program Files\Windows Defender\NisSrv.exe
+(Kaspersky Lab ZAO) C:\Program Files (x86)\Kaspersky Lab\Kaspersky Total Security 15.0.2\avpui.exe
+(Malwarebytes Corporation) C:\Program Files (x86)\Malwarebytes Anti-Malware\mbam.exe
+(Microsoft Corporation) C:\Windows\System32\sihost.exe
+(Microsoft Corporation) C:\Windows\System32\taskhostw.exe
+(Microsoft Corporation) C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe
+(Microsoft Corporation) C:\Windows\WinStore\WSHost.exe
+() C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe
+(NVIDIA Corporation) C:\Program Files (x86)\NVIDIA Corporation\Update Core\NvBackend.exe
+(NVIDIA Corporation) C:\Program Files\NVIDIA Corporation\Display\nvtray.exe
+(Microsoft Corporation) C:\Windows\System32\SystemSettingsBroker.exe
+(Realtek Semiconductor) C:\Program Files\Realtek\Audio\HDA\RtkNGUI64.exe
+(Microsoft Corporation) C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\RemindersServer.exe
+(Microsoft Corporation) C:\Windows\System32\SettingSyncHost.exe
+(Realtek Semiconductor) C:\Program Files\Realtek\Audio\HDA\RAVBg64.exe
+(Logitech, Inc.) C:\Program Files\Logitech\SetPointP\SetPoint.exe
+() C:\Users\Won\AppData\Roaming\Dashlane\Dashlane.exe
+(Microsoft Corporation) C:\Users\Won\AppData\Local\Microsoft\OneDrive\OneDrive.exe
+(Logitech, Inc.) C:\Program Files\Common Files\Logishrd\KHAL3\KHALMNPR.exe
+(Microsoft Corporation) C:\Windows\System32\Speech_OneCore\Common\SpeechRuntime.exe
+(Mozilla Corporation) C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+(Microsoft Corporation) C:\Windows\System32\ApplicationFrameHost.exe
+(Microsoft Corporation) C:\Windows\SystemApps\WindowsFeedback_cw5n1h2txyewy\FeedbackApp.Windows.exe
+(NVIDIA Corporation) C:\Program Files\NVIDIA Corporation\NvStreamSrv\NvStreamNetworkService.exe
+(NVIDIA Corporation) C:\Program Files\NVIDIA Corporation\NvStreamSrv\nvstreamsvc.exe
+(Microsoft Corporation) C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\ActionUriServer.exe
+(Adobe Systems Incorporated) C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe
+(Microsoft Corporation) C:\Program Files\Windows Defender\MpCmdRun.exe
+
+
+==================== Registry (Whitelisted) ==================
+
+(If an entry is included in the fixlist, the registry item will be restored to default or removed. The file will not be moved.)
+
+HKLM\...\Run: [RTHDVCPL] => C:\Program Files\Realtek\Audio\HDA\RtkNGUI64.exe [8466960 2015-05-11] (Realtek Semiconductor)
+HKLM\...\Run: [RtHDVBg_DTS] => C:\Program Files\Realtek\Audio\HDA\RAVBg64.exe [1394704 2015-05-11] (Realtek Semiconductor)
+HKLM\...\Run: [Logitech Download Assistant] => C:\Windows\system32\rundll32.exe C:\Windows\System32\LogiLDA.dll,LogiFetch
+HKLM\...\Run: [NvBackend] => C:\Program Files (x86)\NVIDIA Corporation\Update Core\NvBackend.exe [2685072 2015-05-07] (NVIDIA Corporation)
+HKLM\...\Run: [ShadowPlay] => C:\WINDOWS\system32\rundll32.exe C:\WINDOWS\system32\nvspcap64.dll,ShadowPlayOnSystemStart
+HKLM\...\Run: [EvtMgr6] => C:\Program Files\Logitech\SetPointP\SetPoint.exe [3100440 2014-05-19] (Logitech, Inc.)
+HKLM\...\Run: [AdobeAAMUpdater-1.0] => C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\UpdaterStartupUtility.exe [500936 2015-03-30] (Adobe Systems Incorporated)
+HKLM\...\Run: [iTunesHelper] => C:\Program Files\iTunes\iTunesHelper.exe [169768 2015-04-07] (Apple Inc.)
+HKLM-x32\...\Run: [Adobe Creative Cloud] => C:\Program Files (x86)\Adobe\Adobe Creative Cloud\ACC\Creative Cloud.exe [2584240 2015-04-20] (Adobe Systems Incorporated)
+HKLM-x32\...\Run: [QuickTime Task] => C:\Program Files (x86)\QuickTime\QTTask.exe [421888 2014-10-02] (Apple Inc.)
+HKLM-x32\...\Run: [Adobe ARM] => C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\AdobeARM.exe [1022152 2014-12-19] (Adobe Systems Incorporated)
+HKU\S-1-5-19\...\Run: [OneDriveSetup] => C:\Windows\SysWOW64\OneDriveSetup.exe [7738536 2015-05-14] (Microsoft Corporation)
+HKU\S-1-5-20\...\Run: [OneDriveSetup] => C:\Windows\SysWOW64\OneDriveSetup.exe [7738536 2015-05-14] (Microsoft Corporation)
+HKU\S-1-5-21-3916162953-3734116064-3237655428-1001\...\Run: [Dashlane] => C:\Users\Won\AppData\Roaming\Dashlane\Dashlane.exe [227512 2015-04-17] ()
+HKU\S-1-5-21-3916162953-3734116064-3237655428-1001\...\Run: [Skype] => C:\Program Files (x86)\Skype\Phone\Skype.exe [31280256 2015-04-17] (Skype Technologies S.A.)
+HKU\S-1-5-21-3916162953-3734116064-3237655428-1001\...\Run: [OneDrive] => C:\Users\Won\AppData\Local\Microsoft\OneDrive\OneDrive.exe [382664 2015-05-21] (Microsoft Corporation)
+Startup: C:\Users\Won\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\ShareX.lnk [2014-12-20]
+ShortcutTarget: ShareX.lnk -> C:\Program Files\ShareX\ShareX.exe (ShareX Developers)
+ShellIconOverlayIdentifiers: [ AccExtIco1] -> {AB9CF9F8-8A96-4F9D-BF21-CE85714C3A47} => C:\Program Files (x86)\Adobe\Adobe Creative Cloud\CoreSyncExtension\CoreSync_x64.dll [2015-04-16] ()
+ShellIconOverlayIdentifiers: [ AccExtIco2] -> {853B7E05-C47D-4985-909A-D0DC5C6D7303} => C:\Program Files (x86)\Adobe\Adobe Creative Cloud\CoreSyncExtension\CoreSync_x64.dll [2015-04-16] ()
+ShellIconOverlayIdentifiers: [ AccExtIco3] -> {42D38F2E-98E9-4382-B546-E24E4D6D04BB} => C:\Program Files (x86)\Adobe\Adobe Creative Cloud\CoreSyncExtension\CoreSync_x64.dll [2015-04-16] ()
+ShellIconOverlayIdentifiers: [ OneDrive1] -> {BBACC218-34EA-4666-9D7A-C78F2274A524} => C:\Users\Won\AppData\Local\Microsoft\OneDrive\17.3.5860.0512\amd64\FileSyncShell64.dll [2015-05-21] (Microsoft Corporation)
+ShellIconOverlayIdentifiers: [ OneDrive2] -> {5AB7172C-9C11-405C-8DD5-AF20F3606282} => C:\Users\Won\AppData\Local\Microsoft\OneDrive\17.3.5860.0512\amd64\FileSyncShell64.dll [2015-05-21] (Microsoft Corporation)
+ShellIconOverlayIdentifiers: [ OneDrive3] -> {A78ED123-AB77-406B-9962-2A5D9D2F7F30} => C:\Users\Won\AppData\Local\Microsoft\OneDrive\17.3.5860.0512\amd64\FileSyncShell64.dll [2015-05-21] (Microsoft Corporation)
+ShellIconOverlayIdentifiers: [ OneDrive4] -> {F241C880-6982-4CE5-8CF7-7085BA96DA5A} => C:\Users\Won\AppData\Local\Microsoft\OneDrive\17.3.5860.0512\amd64\FileSyncShell64.dll [2015-05-21] (Microsoft Corporation)
+ShellIconOverlayIdentifiers: [ OneDrive5] -> {A0396A93-DC06-4AEF-BEE9-95FFCCAEF20E} => C:\Users\Won\AppData\Local\Microsoft\OneDrive\17.3.5860.0512\amd64\FileSyncShell64.dll [2015-05-21] (Microsoft Corporation)
+ShellIconOverlayIdentifiers: [00avast] -> {472083B0-C522-11CF-8763-00608CC02F24} =>  No File
+ShellIconOverlayIdentifiers-x32: [ OneDrive1] -> {BBACC218-34EA-4666-9D7A-C78F2274A524} => C:\Users\Won\AppData\Local\Microsoft\OneDrive\17.3.5860.0512\FileSyncShell.dll [2015-05-21] (Microsoft Corporation)
+ShellIconOverlayIdentifiers-x32: [ OneDrive2] -> {5AB7172C-9C11-405C-8DD5-AF20F3606282} => C:\Users\Won\AppData\Local\Microsoft\OneDrive\17.3.5860.0512\FileSyncShell.dll [2015-05-21] (Microsoft Corporation)
+ShellIconOverlayIdentifiers-x32: [ OneDrive3] -> {A78ED123-AB77-406B-9962-2A5D9D2F7F30} => C:\Users\Won\AppData\Local\Microsoft\OneDrive\17.3.5860.0512\FileSyncShell.dll [2015-05-21] (Microsoft Corporation)
+ShellIconOverlayIdentifiers-x32: [ OneDrive4] -> {F241C880-6982-4CE5-8CF7-7085BA96DA5A} => C:\Users\Won\AppData\Local\Microsoft\OneDrive\17.3.5860.0512\FileSyncShell.dll [2015-05-21] (Microsoft Corporation)
+ShellIconOverlayIdentifiers-x32: [ OneDrive5] -> {A0396A93-DC06-4AEF-BEE9-95FFCCAEF20E} => C:\Users\Won\AppData\Local\Microsoft\OneDrive\17.3.5860.0512\FileSyncShell.dll [2015-05-21] (Microsoft Corporation)
+
+==================== Internet (Whitelisted) ====================
+
+(If an item is included in the fixlist, if it is a registry item it will be removed or restored to default.)
+
+HKLM\SOFTWARE\Policies\Microsoft\Windows\CurrentVersion\Internet Settings: [ProxySettingsPerUser] 0 <======= ATTENTION (Policy restriction on ProxySettings)
+HKLM\Software\Microsoft\Internet Explorer\Main,Start Page = about:blank
+HKU\S-1-5-19\Software\Microsoft\Internet Explorer\Main,Local Page = %11%\blank.htm
+HKU\S-1-5-20\Software\Microsoft\Internet Explorer\Main,Local Page = %11%\blank.htm
+HKU\S-1-5-21-3916162953-3734116064-3237655428-1001\Software\Microsoft\Internet Explorer\Main,Start Page = http://www.msn.com/?pc=SKY2&ocid=SKY2DHP&osmkt=en-us
+HKU\S-1-5-21-3916162953-3734116064-3237655428-1001\Software\Microsoft\Internet Explorer\Main,Start Page Redirect Cache = http://t.msn.com/
+BHO: Virtual Keyboard Plugin -> {4A66AD60-A03D-4D01-86F0-5F0F7C0EF1AD} -> C:\Program Files (x86)\Kaspersky Lab\Kaspersky Total Security 15.0.2\x64\IEExt\ie_plugin.dll [2014-12-23] (Kaspersky Lab ZAO)
+BHO: Java(tm) Plug-In SSV Helper -> {761497BB-D6F0-462C-B6EB-D4DAF1D92D43} -> C:\Program Files\Java\jre1.8.0_40\bin\ssv.dll [2015-03-10] (Oracle Corporation)
+BHO: Content Blocker Plugin -> {93BC2EA7-2F17-4729-948A-D2E03FFB2412} -> C:\Program Files (x86)\Kaspersky Lab\Kaspersky Total Security 15.0.2\x64\IEExt\ie_plugin.dll [2014-12-23] (Kaspersky Lab ZAO)
+BHO: Safe Money Plugin -> {AB379017-4C03-4E00-8EDF-E6D6AF7CCF82} -> C:\Program Files (x86)\Kaspersky Lab\Kaspersky Total Security 15.0.2\x64\IEExt\ie_plugin.dll [2014-12-23] (Kaspersky Lab ZAO)
+BHO: Skype Click to Call for Internet Explorer -> {AE805869-2E5C-4ED4-8F7B-F1F7851A4497} -> C:\Program Files (x86)\Skype\Toolbars\Internet Explorer x64\skypeieplugin.dll [2014-07-14] (Microsoft Corporation)
+BHO: Logitech SetPoint -> {AF949550-9094-4807-95EC-D1C317803333} -> C:\Program Files\Logitech\SetPointP\SetPointSmooth.dll [2014-05-19] (Logitech, Inc.)
+BHO: Java(tm) Plug-In 2 SSV Helper -> {DBC80044-A445-435b-BC74-9C25C1C588A9} -> C:\Program Files\Java\jre1.8.0_40\bin\jp2ssv.dll [2015-03-10] (Oracle Corporation)
+BHO-x32: Microsoft Web Test Recorder 12.0 Helper -> {432dd630-7e03-4c97-9d62-b99f52df4fc2} -> C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.QualityTools.RecorderBarBHO100.dll [2013-10-05] (Microsoft Corporation)
+BHO-x32: Virtual Keyboard Plugin -> {4A66AD60-A03D-4D01-86F0-5F0F7C0EF1AD} -> C:\Program Files (x86)\Kaspersky Lab\Kaspersky Total Security 15.0.2\IEExt\ie_plugin.dll [2014-12-23] (Kaspersky Lab ZAO)
+BHO-x32: Java(tm) Plug-In SSV Helper -> {761497BB-D6F0-462C-B6EB-D4DAF1D92D43} -> C:\Program Files (x86)\Java\jre1.8.0_40\bin\ssv.dll [2015-03-11] (Oracle Corporation)
+BHO-x32: Microsoft Web Test Recorder 10.0 Helper -> {876d9f09-c6d6-4324-a2cc-04dd9a4de12f} -> C:\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.QualityTools.RecorderBarBHO100.dll [2012-07-26] (Microsoft Corporation)
+BHO-x32: Content Blocker Plugin -> {93BC2EA7-2F17-4729-948A-D2E03FFB2412} -> C:\Program Files (x86)\Kaspersky Lab\Kaspersky Total Security 15.0.2\IEExt\ie_plugin.dll [2014-12-23] (Kaspersky Lab ZAO)
+BHO-x32: Safe Money Plugin -> {AB379017-4C03-4E00-8EDF-E6D6AF7CCF82} -> C:\Program Files (x86)\Kaspersky Lab\Kaspersky Total Security 15.0.2\IEExt\ie_plugin.dll [2014-12-23] (Kaspersky Lab ZAO)
+BHO-x32: Skype Click to Call for Internet Explorer -> {AE805869-2E5C-4ED4-8F7B-F1F7851A4497} -> C:\Program Files (x86)\Skype\Toolbars\Internet Explorer\SkypeIEPlugin.dll [2014-07-14] (Microsoft Corporation)
+BHO-x32: Logitech SetPoint -> {AF949550-9094-4807-95EC-D1C317803333} -> C:\Program Files\Logitech\SetPointP\32-bit\SetPointSmooth.dll [2014-05-19] (Logitech, Inc.)
+BHO-x32: Java(tm) Plug-In 2 SSV Helper -> {DBC80044-A445-435b-BC74-9C25C1C588A9} -> C:\Program Files (x86)\Java\jre1.8.0_40\bin\jp2ssv.dll [2015-03-11] (Oracle Corporation)
+Handler: skypec2c - {91774881-D725-4E58-B298-07617B9B86A8} - C:\Program Files (x86)\Skype\Toolbars\Internet Explorer x64\skypeieplugin.dll [2014-07-14] (Microsoft Corporation)
+Handler-x32: skypec2c - {91774881-D725-4E58-B298-07617B9B86A8} - C:\Program Files (x86)\Skype\Toolbars\Internet Explorer\SkypeIEPlugin.dll [2014-07-14] (Microsoft Corporation)
+Tcpip\Parameters: [DhcpNameServer] 192.168.2.1
+
+FireFox:
+========
+FF ProfilePath: C:\Users\Won\AppData\Roaming\Mozilla\Firefox\Profiles\qc9sxpd3.default-1427296230712
+FF DefaultSearchEngine.US: DuckDuckGo
+FF Plugin: @adobe.com/FlashPlayer -> C:\WINDOWS\system32\Macromed\Flash\NPSWF64_17_0_0_188.dll [2015-05-19] ()
+FF Plugin: @java.com/DTPlugin,version=11.40.2 -> C:\Program Files\Java\jre1.8.0_40\bin\dtplugin\npDeployJava1.dll [2015-03-10] (Oracle Corporation)
+FF Plugin: @java.com/JavaPlugin,version=11.40.2 -> C:\Program Files\Java\jre1.8.0_40\bin\plugin2\npjp2.dll [2015-03-10] (Oracle Corporation)
+FF Plugin: @Microsoft.com/NpCtrl,version=1.0 -> c:\Program Files\Microsoft Silverlight\5.1.30514.0\npctrl.dll [2014-05-13] ( Microsoft Corporation)
+FF Plugin: @wacom.com/wtPlugin,version=2.1.0.7 -> C:\Program Files\TabletPlugins\npWacomTabletPlugin.dll No File
+FF Plugin: adobe.com/AdobeAAMDetect -> C:\Program Files (x86)\Adobe\Adobe Creative Cloud\Utils\npAdobeAAMDetect64.dll [2015-04-20] (Adobe Systems)
+FF Plugin: wacom.com/WacomTabletPlugin -> C:\Program Files\TabletPlugins\npWacomTabletPlugin.dll No File
+FF Plugin-x32: @adobe.com/FlashPlayer -> C:\WINDOWS\SysWOW64\Macromed\Flash\NPSWF32_17_0_0_188.dll [2015-05-19] ()
+FF Plugin-x32: @adobe.com/ShockwavePlayer -> C:\Windows\SysWOW64\Adobe\Director\np32dsw_1217157.dll [2015-02-16] (Adobe Systems, Inc.)
+FF Plugin-x32: @Apple.com/iTunes,version=1.0 -> C:\Program Files (x86)\iTunes\Mozilla Plugins\npitunes.dll [2014-10-30] ()
+FF Plugin-x32: @java.com/DTPlugin,version=11.40.2 -> C:\Program Files (x86)\Java\jre1.8.0_40\bin\dtplugin\npDeployJava1.dll [2015-03-11] (Oracle Corporation)
+FF Plugin-x32: @java.com/JavaPlugin,version=11.40.2 -> C:\Program Files (x86)\Java\jre1.8.0_40\bin\plugin2\npjp2.dll [2015-03-11] (Oracle Corporation)
+FF Plugin-x32: @kaspersky.com/content_blocker_663BE84DBCC949E88C7600F63CA7F098 -> C:\Program Files (x86)\Kaspersky Lab\Kaspersky Total Security 15.0.2\FFExt\content_blocker@kaspersky.com [2015-05-23] ()
+FF Plugin-x32: @kaspersky.com/online_banking_08806E753BE44495B44E90AA2513BDC5 -> C:\Program Files (x86)\Kaspersky Lab\Kaspersky Total Security 15.0.2\FFExt\online_banking@kaspersky.com [2015-05-23] ()
+FF Plugin-x32: @kaspersky.com/virtual_keyboard_07402848C2F6470194F131B0F3DE025E -> C:\Program Files (x86)\Kaspersky Lab\Kaspersky Total Security 15.0.2\FFExt\virtual_keyboard@kaspersky.com [2015-05-23] ()
+FF Plugin-x32: @Microsoft.com/NpCtrl,version=1.0 -> c:\Program Files (x86)\Microsoft Silverlight\5.1.30514.0\npctrl.dll [2014-05-13] ( Microsoft Corporation)
+FF Plugin-x32: @microsoft.com/WLPG,version=16.4.3528.0331 -> C:\Program Files (x86)\Windows Live\Photo Gallery\NPWLPG.dll [2014-03-31] (Microsoft Corporation)
+FF Plugin-x32: @nexon.net/NxGame -> C:\ProgramData\NexonUS\NGM\npNxGameUS.dll No File
+FF Plugin-x32: @nvidia.com/3DVision -> C:\Program Files (x86)\NVIDIA Corporation\3D Vision\npnv3dv.dll [2015-05-10] (NVIDIA Corporation)
+FF Plugin-x32: @nvidia.com/3DVisionStreaming -> C:\Program Files (x86)\NVIDIA Corporation\3D Vision\npnv3dvstreaming.dll [2015-05-10] (NVIDIA Corporation)
+FF Plugin-x32: Adobe Reader -> C:\Program Files (x86)\Adobe\Reader 11.0\Reader\AIR\nppdf32.dll [2015-05-01] (Adobe Systems Inc.)
+FF Plugin-x32: adobe.com/AdobeAAMDetect -> C:\Program Files (x86)\Adobe\Adobe Creative Cloud\Utils\npAdobeAAMDetect32.dll [2015-04-20] (Adobe Systems)
+FF Plugin-x32: wacom.com/WacomTabletPlugin -> C:\Program Files (x86)\TabletPlugins\npWacomTabletPlugin.dll No File
+FF user.js: detected! => C:\Users\Won\AppData\Roaming\Mozilla\Firefox\Profiles\qc9sxpd3.default-1427296230712\user.js [2015-03-25]
+FF Extension: WOT - C:\Users\Won\AppData\Roaming\Mozilla\Firefox\Profiles\qc9sxpd3.default-1427296230712\Extensions\{a0d7ccb3-214d-498b-b4aa-0e8fda9a7bf7} [2015-03-25]
+FF Extension: Disconnect - C:\Users\Won\AppData\Roaming\Mozilla\Firefox\Profiles\qc9sxpd3.default-1427296230712\Extensions\2.0@disconnect.me.xpi [2015-03-25]
+FF Extension: Ghostery - C:\Users\Won\AppData\Roaming\Mozilla\Firefox\Profiles\qc9sxpd3.default-1427296230712\Extensions\firefox@ghostery.com.xpi [2015-03-25]
+FF Extension: Self-Destructing Cookies - C:\Users\Won\AppData\Roaming\Mozilla\Firefox\Profiles\qc9sxpd3.default-1427296230712\Extensions\jid0-9XfBwUWnvPx4wWsfBWMCm4Jj69E@jetpack.xpi [2015-03-25]
+FF Extension: Adblock Plus - C:\Users\Won\AppData\Roaming\Mozilla\Firefox\Profiles\qc9sxpd3.default-1427296230712\Extensions\{d10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d}.xpi [2015-03-25]
+FF Extension: BetterPrivacy - C:\Users\Won\AppData\Roaming\Mozilla\Firefox\Profiles\qc9sxpd3.default-1427296230712\Extensions\{d40f5e7b-d2cf-4856-b441-cc613eeffbe3}.xpi [2015-03-25]
+FF Extension: No Name - C:\Program Files (x86)\Mozilla Firefox\browser\extensions\{82AF8DCA-6DE9-405D-BD5E-43525BDAD38A}.xpi [2015-05-19]
+FF HKLM\...\Thunderbird\Extensions: [eplgTb@eset.com] - C:\Program Files\ESET\ESET NOD32 Antivirus\Mozilla Thunderbird
+FF HKLM-x32\...\Firefox\Extensions: [{F003DA68-8256-4b37-A6C4-350FA04494DF}] - C:\Program Files\Logitech\SetPointP\LogiSmoothFirefoxExt
+FF Extension: Logitech SetPoint - C:\Program Files\Logitech\SetPointP\LogiSmoothFirefoxExt [2014-08-31]
+FF HKLM-x32\...\Firefox\Extensions: [bdwteff@bitdefender.com] - C:\Program Files\Bitdefender\Bitdefender 2015\antispam32\bdwteff
+FF HKLM-x32\...\Firefox\Extensions: [content_blocker_663BE84DBCC949E88C7600F63CA7F098@kaspersky.com] - C:\Program Files (x86)\Kaspersky Lab\Kaspersky Total Security 15.0.2\FFExt\content_blocker@kaspersky.com
+FF Extension: Dangerous Websites Blocker - C:\Program Files (x86)\Kaspersky Lab\Kaspersky Total Security 15.0.2\FFExt\content_blocker@kaspersky.com [2015-05-23]
+FF HKLM-x32\...\Firefox\Extensions: [virtual_keyboard_07402848C2F6470194F131B0F3DE025E@kaspersky.com] - C:\Program Files (x86)\Kaspersky Lab\Kaspersky Total Security 15.0.2\FFExt\virtual_keyboard@kaspersky.com
+FF Extension: Virtual Keyboard - C:\Program Files (x86)\Kaspersky Lab\Kaspersky Total Security 15.0.2\FFExt\virtual_keyboard@kaspersky.com [2015-05-23]
+FF HKLM-x32\...\Firefox\Extensions: [online_banking_08806E753BE44495B44E90AA2513BDC5@kaspersky.com] - C:\Program Files (x86)\Kaspersky Lab\Kaspersky Total Security 15.0.2\FFExt\online_banking@kaspersky.com
+FF Extension: Safe Money - C:\Program Files (x86)\Kaspersky Lab\Kaspersky Total Security 15.0.2\FFExt\online_banking@kaspersky.com [2015-05-23]
+FF HKLM-x32\...\Thunderbird\Extensions: [eplgTb@eset.com] - C:\Program Files\ESET\ESET NOD32 Antivirus\Mozilla Thunderbird
+FF HKU\S-1-5-21-3916162953-3734116064-3237655428-1001\...\Firefox\Extensions: [{442718d9-475e-452a-b3e1-fb1ee16b8e9f}] - C:\Users\Won\AppData\Roaming\Dashlane\3.2.5.83379\bin\Firefox_Extension\{442718d9-475e-452a-b3e1-fb1ee16b8e9f}
+FF Extension: Dashlane - C:\Users\Won\AppData\Roaming\Dashlane\3.2.5.83379\bin\Firefox_Extension\{442718d9-475e-452a-b3e1-fb1ee16b8e9f} [2015-04-23]
+
+Chrome: 
+=======
+CHR HKU\S-1-5-21-3916162953-3734116064-3237655428-1001\SOFTWARE\Google\Chrome\Extensions\...\Chrome\Extension: [fcfenmboojpjinhpgggodefccipikbpd] - https://clients2.google.com/service/update2/crx
+CHR HKLM-x32\...\Chrome\Extension: [lifbcibllhkdhoafpjfnlhfpfgnpldfl] - C:\Program Files (x86)\Skype\Toolbars\ChromeExtension\skype_chrome_extension.crx [2014-07-14]
+
+==================== Services (Whitelisted) =================
+
+(If an entry is included in the fixlist, it will be removed from the registry. The file will not be moved unless listed separately.)
+
+R2 AdobeUpdateService; C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\ElevationManager\AdobeUpdateService.exe [603312 2015-04-20] (Adobe Systems Incorporated)
+S3 AJRouter; C:\Windows\System32\AJRouter.dll [19968 2015-05-14] (Microsoft Corporation)
+R2 asComSvc; C:\Program Files (x86)\ASUS\AXSP\1.01.02\atkexComSvc.exe [936728 2013-07-04] ()
+R2 AVP15.0.2; C:\Program Files (x86)\Kaspersky Lab\Kaspersky Total Security 15.0.2\avp.exe [193400 2014-12-23] (Kaspersky Lab ZAO)
+S3 BthHFSrv; C:\Windows\System32\BthHFSrv.dll [325120 2015-05-14] (Microsoft Corporation)
+R2 c2cautoupdatesvc; C:\Program Files (x86)\Skype\Toolbars\AutoUpdate\SkypeC2CAutoUpdateSvc.exe [1390176 2014-07-14] (Microsoft Corporation)
+R2 c2cpnrsvc; C:\Program Files (x86)\Skype\Toolbars\PNRSvc\SkypeC2CPNRSvc.exe [1767520 2014-07-14] (Microsoft Corporation)
+S3 c2wts; C:\Program Files\Windows Identity Foundation\v3.5\c2wtshost.exe [5632 2015-05-20] (Microsoft Corporation)
+S3 CDPSvc; C:\Windows\System32\CDPSvc.dll [104960 2015-05-14] (Microsoft Corporation)
+R3 ClipSVC; C:\Windows\System32\ClipSVC.dll [581736 2015-05-14] (Microsoft Corporation)
+R2 CoreUIRegistrar; C:\Windows\system32\coremessaging.dll [709792 2015-05-14] (Microsoft Corporation)
+R2 CoreUIRegistrar; C:\Windows\SysWOW64\coremessaging.dll [479232 2015-05-14] (Microsoft Corporation)
+R3 DcpSvc; C:\Windows\system32\dcpsvc.dll [195584 2015-05-14] (Microsoft Corporation)
+S3 DevQueryBroker; C:\Windows\system32\DevQueryBroker.dll [32256 2015-05-14] (Microsoft Corporation)
+S3 diagnosticshub.standardcollector.service; C:\Windows\system32\DiagSvcs\DiagnosticsHub.StandardCollector.Service.exe [26624 2015-05-14] (Microsoft Corporation)
+R2 DiagTrack; C:\Windows\system32\diagtrack.dll [1556968 2015-05-14] (Microsoft Corporation)
+S3 DmEnrollmentSvc; C:\Windows\system32\Windows.Internal.Management.dll [268800 2015-05-14] (Microsoft Corporation)
+S3 DmEnrollmentSvc; C:\Windows\SysWOW64\Windows.Internal.Management.dll [193536 2015-05-14] (Microsoft Corporation)
+S2 dmwappushservice; C:\Windows\system32\dmwappushsvc.dll [57856 2015-05-14] (Microsoft Corporation)
+R2 DoSvc; C:\Windows\system32\svchost.exe [39992 2015-05-14] (Microsoft Corporation)
+R2 DoSvc; C:\Windows\SysWOW64\svchost.exe [35312 2015-05-14] (Microsoft Corporation)
+R3 DsSvc; C:\Windows\System32\DsSvc.dll [140288 2015-05-14] (Microsoft Corporation)
+R2 DTSAudioSvc; C:\Program Files\Realtek\Audio\HDA\DTSU2PAuSrv64.exe [240144 2015-05-11] (DTS, Inc)
+S3 EntAppSvc; C:\Windows\system32\EnterpriseAppMgmtSvc.dll [248832 2015-05-14] (Microsoft Corporation)
+S3 fussvc; C:\Program Files (x86)\Windows Kits\8.1\App Certification Kit\fussvc.exe [142336 2014-02-20] (Microsoft Corporation) []
+R2 GfExperienceService; C:\Program Files\NVIDIA Corporation\GeForce Experience Service\GfExperienceService.exe [1152656 2015-05-07] (NVIDIA Corporation)
+S3 icssvc; C:\Windows\System32\tetheringservice.dll [142848 2015-05-14] (Microsoft Corporation)
+R2 IpOverUsbSvc; C:\Program Files (x86)\Common Files\Microsoft Shared\Phone Tools\CoreCon\11.0\bin\IpOverUsbSvc.exe [22768 2014-04-17] (Microsoft Corporation)
+R3 lfsvc; C:\Windows\System32\lfsvc.dll [30208 2015-05-14] (Microsoft Corporation)
+R3 lfsvc; C:\Windows\SysWOW64\lfsvc.dll [24064 2015-05-14] (Microsoft Corporation)
+S3 LicenseManager; C:\Windows\system32\LicenseManagerSvc.dll [18432 2015-05-14] (Microsoft Corporation)
+S2 MapsBroker; C:\Windows\System32\moshost.dll [61440 2015-05-14] (Microsoft Corporation)
+R2 MBAMScheduler; C:\Program Files (x86)\Malwarebytes Anti-Malware\mbamscheduler.exe [1871160 2015-04-14] (Malwarebytes Corporation)
+R2 MBAMService; C:\Program Files (x86)\Malwarebytes Anti-Malware\mbamservice.exe [1080120 2015-04-14] (Malwarebytes Corporation)
+S3 NetSetupSvc; C:\Windows\System32\NetSetupSvc.dll [333824 2015-05-14] (Microsoft Corporation)
+S3 NgcCtnrSvc; C:\Windows\System32\NgcCtnrSvc.dll [256512 2015-05-14] (Microsoft Corporation)
+S3 NgcSvc; C:\Windows\system32\ngcsvc.dll [514560 2015-05-14] (Microsoft Corporation)
+R2 NvNetworkService; C:\Program Files (x86)\NVIDIA Corporation\NetService\NvNetworkService.exe [1884304 2015-05-07] (NVIDIA Corporation)
+R2 NvStreamSvc; C:\Program Files\NVIDIA Corporation\NvStreamSrv\nvstreamsvc.exe [22997648 2015-05-07] (NVIDIA Corporation)
+S3 PhoneSvc; C:\Windows\System32\PhoneService.dll [656384 2015-05-14] (Microsoft Corporation)
+S3 RetailDemo; C:\Windows\system32\RDXService.dll [821248 2015-05-14] (Microsoft Corporation)
+S2 SbieSvc; C:\Program Files\Sandboxie\SbieSvc.exe [175112 2015-02-17] (Sandboxie Holdings, LLC)
+S3 SensorDataService; C:\Windows\System32\SensorDataService.exe [901120 2015-05-14] ()
+S3 SensorService; C:\Windows\system32\SensorService.dll [171008 2015-05-14] (Microsoft Corporation)
+S3 SmsRouter; C:\Windows\system32\SmsRouterSvc.dll [581632 2015-05-14] (Microsoft Corporation)
+S3 StateRepository; C:\Windows\system32\windows.staterepository.dll [2615808 2015-05-14] (Microsoft Corporation)
+S3 StateRepository; C:\Windows\SysWOW64\windows.staterepository.dll [1858560 2015-05-14] (Microsoft Corporation)
+S3 Te.Service; C:\Program Files (x86)\Windows Kits\8.1\Testing\Runtimes\TAEF\Wex.Services.exe [119808 2013-08-22] (Microsoft Corporation) []
+R2 tiledatamodelsvc; C:\Windows\system32\tileobjserver.dll [467968 2015-05-14] (Microsoft Corporation)
+R2 UserManager; C:\Windows\System32\usermgr.dll [694272 2015-05-14] (Microsoft Corporation)
+S3 UsoSvc; C:\Windows\system32\usocore.dll [326656 2015-05-14] (Microsoft Corporation)
+S3 vmicvmsession; C:\Windows\System32\ICSvc.dll [509440 2015-05-14] (Microsoft Corporation)
+S3 VsEtwService120; C:\Program Files\Microsoft Visual Studio 12.0\Common7\Packages\Debugger\Services\VsEtwService.exe [89232 2014-07-22] (Microsoft Corporation)
+S3 WalletSvc; C:\Windows\system32\WalletService.dll [484352 2015-05-14] (Microsoft Corporation)
+R3 WdNisSvc; C:\Program Files\Windows Defender\NisSrv.exe [352880 2015-05-14] (Microsoft Corporation)
+R2 WinDefend; C:\Program Files\Windows Defender\MsMpEng.exe [16728 2015-05-14] (Microsoft Corporation)
+S3 WpnService; C:\Windows\system32\WpnService.dll [48640 2015-05-14] (Microsoft Corporation)
+R3 XblAuthManager; C:\Windows\System32\XblAuthManager.dll [754688 2015-05-14] (Microsoft Corporation)
+S3 XblGameSave; C:\Windows\System32\XblGameSave.dll [1111040 2015-05-14] (Microsoft Corporation)
+S3 XboxNetApiSvc; C:\Windows\system32\XboxNetApiSvc.dll [1005568 2015-05-14] (Microsoft Corporation)
+
+==================== Drivers (Whitelisted) ====================
+
+(If an entry is included in the fixlist, it will be removed from the registry. The file will not be moved unless listed separately.)
+
+R1 AsIO; C:\Windows\SysWow64\drivers\AsIO.sys [15232 2013-07-04] ()
+S3 buttonconverter; C:\Windows\System32\drivers\buttonconverter.sys [31232 2015-05-14] (Microsoft Corporation)
+S3 CapImg; C:\Windows\System32\drivers\capimg.sys [111104 2015-05-14] (Microsoft Corporation)
+R0 cm_km_w; C:\Windows\System32\DRIVERS\cm_km_w.sys [238288 2013-01-14] (Kaspersky Lab UK Ltd)
+S4 cnghwassist; C:\Windows\System32\DRIVERS\cnghwassist.sys [38888 2015-05-14] (Microsoft Corporation)
+R3 CompositeBus; C:\Windows\System32\DriverStore\FileRepository\compositebus.inf_amd64_170982ab8d8784a9\CompositeBus.sys [39424 2015-05-14] (Microsoft Corporation)
+S0 ebdrv; C:\Windows\System32\drivers\evbda.sys [3437032 2015-05-14] (QLogic Corporation)
+S3 fcvsc; C:\Windows\System32\drivers\fcvsc.sys [30720 2015-05-14] (Microsoft Corporation)
+R1 FileCrypt; C:\Windows\System32\drivers\filecrypt.sys [83968 2015-05-14] (Microsoft Corporation)
+S3 genericusbfnclass; C:\Windows\System32\drivers\genericusbfnclass.sys [20480 2015-05-14] (Microsoft Corporation)
+R1 GpuEnergyDrv; C:\Windows\System32\drivers\gpuenergydrv.sys [7680 2015-05-14] (Microsoft Corporation)
+S3 hidinterrupt; C:\Windows\System32\drivers\hidinterrupt.sys [49640 2015-05-14] (Microsoft Corporation)
+S3 ibbus; C:\Windows\System32\drivers\ibbus.sys [424936 2015-05-14] (Mellanox)
+S3 IoQos; C:\Windows\System32\drivers\ioqos.sys [27648 2015-05-14] (Microsoft Corporation)
+R0 kl1; C:\Windows\System32\DRIVERS\kl1.sys [468576 2014-03-31] (Kaspersky Lab ZAO)
+R2 kldisk; C:\Windows\system32\DRIVERS\kldisk.sys [56008 2015-05-23] (Kaspersky Lab ZAO)
+S0 klelam; C:\Windows\System32\DRIVERS\klelam.sys [29616 2012-07-27] (Kaspersky Lab)
+R3 klflt; C:\Windows\system32\DRIVERS\klflt.sys [151240 2014-11-28] (Kaspersky Lab ZAO)
+R1 klhk; C:\Windows\system32\DRIVERS\klhk.sys [247496 2014-10-22] (Kaspersky Lab ZAO)
+S1 KLIF; C:\Windows\System32\DRIVERS\klif.sys [824008 2015-05-23] (Kaspersky Lab ZAO)
+R1 KLIM6; C:\Windows\system32\DRIVERS\klim6.sys [30920 2014-10-10] (Kaspersky Lab ZAO)
+S3 klkbdflt; C:\Windows\system32\DRIVERS\klkbdflt.sys [31432 2014-10-30] (Kaspersky Lab ZAO)
+S3 klmouflt; C:\Windows\system32\DRIVERS\klmouflt.sys [29280 2013-08-08] (Kaspersky Lab ZAO)
+R1 klpd; C:\Windows\system32\DRIVERS\klpd.sys [15456 2013-04-12] (Kaspersky Lab ZAO)
+R1 klwfp; C:\Windows\system32\DRIVERS\klwfp.sys [69320 2014-11-20] (Kaspersky Lab ZAO)
+R1 Klwtp; C:\Windows\system32\DRIVERS\klwtp.sys [77000 2014-11-22] (Kaspersky Lab ZAO)
+R1 kneps; C:\Windows\system32\DRIVERS\kneps.sys [181960 2014-11-10] (Kaspersky Lab ZAO)
+S0 LSI_SAS2i; C:\Windows\System32\drivers\lsi_sas2i.sys [104936 2015-05-14] (LSI Corporation)
+S0 LSI_SAS3i; C:\Windows\System32\drivers\lsi_sas3i.sys [99304 2015-05-14] (Avago Technologies)
+R3 MBAMProtector; C:\WINDOWS\system32\drivers\mbam.sys [25816 2015-04-14] (Malwarebytes Corporation)
+R3 MBAMSwissArmy; C:\WINDOWS\system32\drivers\MBAMSwissArmy.sys [136408 2015-05-25] (Malwarebytes Corporation)
+R3 MBAMWebAccessControl; C:\WINDOWS\system32\drivers\mwac.sys [64216 2015-04-14] (Malwarebytes Corporation)
+S0 megasas; C:\Windows\System32\drivers\megasas.sys [59880 2015-05-14] (Avago Technologies)
+R3 MEIx64; C:\Windows\system32\DRIVERS\TeeDriverx64.sys [129312 2014-09-30] (Intel Corporation)
+R2 mirahid; C:\Windows\System32\drivers\mirahid.sys [35840 2015-05-14] (Microsoft Corporation)
+S3 mlx4_bus; C:\Windows\System32\drivers\mlx4_bus.sys [705512 2015-05-14] (Mellanox)
+R2 MMCSS; C:\Windows\system32\drivers\mmcss.sys [38400 2015-05-14] (Microsoft Corporation)
+S3 ndfltr; C:\Windows\System32\drivers\ndfltr.sys [76264 2015-05-14] (Mellanox)
+U5 NdisWan; C:\Windows\System32\Drivers\NdisWan.sys [187904 2015-05-14] (Microsoft Corporation)
+S3 NetAdapterCx; C:\Windows\System32\drivers\NetAdapterCx.sys [66560 2015-05-14] ()
+S3 netvsc; C:\Windows\System32\drivers\netvsc.sys [94208 2015-05-14] (Microsoft Corporation)
+R3 NvStreamKms; C:\Program Files\NVIDIA Corporation\NvStreamSrv\NvStreamKms.sys [19600 2015-05-07] (NVIDIA Corporation)
+R3 nvvad_WaveExtensible; C:\Windows\system32\drivers\nvvad64v.sys [38032 2014-11-22] (NVIDIA Corporation)
+S2 OneSyncSvc; No ImagePath
+R2 OneSyncSvc_Session1; No ImagePath
+S0 percsas2i; C:\Windows\System32\drivers\percsas2i.sys [58344 2015-05-14] (LSI Corporation)
+S0 percsas3i; C:\Windows\System32\drivers\percsas3i.sys [58856 2015-05-14] (Avago Technologies)
+S3 PimIndexMaintenanceSvc; No ImagePath
+R3 PimIndexMaintenanceSvc_Session1; No ImagePath
+S3 ReFSv1; C:\Windows\System32\Drivers\ReFSv1.sys [933864 2015-05-14] (Microsoft Corporation)
+S3 SbieDrv; C:\Program Files\Sandboxie\SbieDrv.sys [237064 2015-02-17] (Sandboxie Holdings, LLC)
+R3 SensorsSimulatorDriver; C:\Windows\system32\DRIVERS\WUDFRd.sys [219648 2015-05-14] (Microsoft Corporation)
+R2 storqosflt; C:\Windows\System32\drivers\storqosflt.sys [61440 2015-05-14] (Microsoft Corporation)
+S0 storufs; C:\Windows\System32\drivers\storufs.sys [39912 2015-05-14] (Microsoft Corporation)
+R3 swenum; C:\Windows\System32\DriverStore\FileRepository\swenum.inf_amd64_29bf5b331f6a7269\swenum.sys [17384 2015-05-14] (Microsoft Corporation)
+S3 UcmCx0101; C:\Windows\System32\Drivers\UcmCx.sys [43008 2015-05-14] (Microsoft Corporation)
+S3 UcmUcsi; C:\Windows\System32\drivers\UcmUcsi.sys [43520 2015-05-14] (Microsoft Corporation)
+S3 UdeCx; C:\Windows\System32\drivers\udecx.sys [43008 2015-05-14] ()
+S3 Ufx01000; C:\Windows\System32\drivers\ufx01000.sys [240104 2015-05-14] (Microsoft Corporation)
+S3 UfxChipidea; C:\Windows\System32\drivers\UfxChipidea.sys [89576 2015-05-14] (Microsoft Corporation)
+S3 ufxsynopsys; C:\Windows\System32\drivers\ufxsynopsys.sys [123880 2015-05-14] (Microsoft Corporation)
+S3 UnistoreSvc; No ImagePath
+R3 UnistoreSvc_Session1; No ImagePath
+S3 UrsChipidea; C:\Windows\System32\drivers\urschipidea.sys [19456 2015-05-14] (Microsoft Corporation)
+S3 UrsCx01000; C:\Windows\System32\drivers\urscx01000.sys [53224 2015-05-14] (Microsoft Corporation)
+S3 UrsSynopsys; C:\Windows\System32\drivers\urssynopsys.sys [18432 2015-05-14] (Microsoft Corporation)
+S3 USBAAPL64; C:\Windows\System32\Drivers\usbaapl64.sys [54784 2014-08-15] (Apple, Inc.) []
+S3 UserDataSvc; No ImagePath
+R3 UserDataSvc_Session1; No ImagePath
+S3 vhf; C:\Windows\System32\drivers\vhf.sys [29696 2015-05-14] (Microsoft Corporation)
+S3 VSPerfDrv110; C:\Program Files (x86)\Microsoft Visual Studio 11.0\Team Tools\Performance Tools\x64\VSPerfDrv110.sys [70264 2012-07-13] (Microsoft Corporation)
+S3 wdiwifi; C:\Windows\System32\DRIVERS\wdiwifi.sys [680960 2015-05-14] (Microsoft Corporation)
+R2 WdNisDrv; C:\Windows\System32\Drivers\WdNisDrv.sys [117224 2015-05-14] (Microsoft Corporation)
+R0 WindowsTrustedRT; C:\Windows\System32\drivers\WindowsTrustedRT.sys [105504 2015-05-14] (Microsoft Corporation)
+R0 WindowsTrustedRTProxy; C:\Windows\System32\drivers\WindowsTrustedRTProxy.sys [16928 2015-05-14] (Microsoft Corporation)
+S3 WinMad; C:\Windows\System32\drivers\winmad.sys [27112 2015-05-14] (Mellanox)
+S3 WinVerbs; C:\Windows\System32\drivers\winverbs.sys [59368 2015-05-14] (Mellanox)
+S3 xboxgip; C:\Windows\System32\drivers\xboxgip.sys [214528 2015-05-14] (Microsoft Corporation)
+S3 xinputhid; C:\Windows\System32\drivers\xinputhid.sys [25600 2015-05-14] (Microsoft Corporation)
+S3 vmci; \SystemRoot\System32\drivers\vmci.sys [X]
+S3 VMnetAdapter; \SystemRoot\system32\DRIVERS\vmnetadapter.sys [X]
+S2 VMnetBridge; \SystemRoot\system32\DRIVERS\vmnetbridge.sys [X]
+S3 WacHidRouter; \SystemRoot\System32\drivers\wachidrouter.sys [X]
+S3 wacomrouterfilter; \SystemRoot\System32\drivers\wacomrouterfilter.sys [X]
+S3 wfpcapture; \SystemRoot\System32\drivers\wfpcapture.sys [X]
+
+==================== NetSvcs (Whitelisted) ===================
+
+(If an entry is included in the fixlist, it will be removed from the registry. The file will not be moved unless listed separately.)
+
+NETSVC: dosvc -> No ServiceDLL Path.
+NETSVC: XboxNetApiSvc -> C:\Windows\system32\XboxNetApiSvc.dll (Microsoft Corporation)
+NETSVC: XblAuthManager -> C:\Windows\System32\XblAuthManager.dll (Microsoft Corporation)
+NETSVC: DmEnrollmentSvc -> C:\Windows\system32\Windows.Internal.Management.dll (Microsoft Corporation)
+NETSVC: dmwappushservice -> C:\Windows\system32\dmwappushsvc.dll (Microsoft Corporation)
+NETSVC: XblGameSave -> C:\Windows\System32\XblGameSave.dll (Microsoft Corporation)
+NETSVC: WalletSvc -> C:\Windows\system32\WalletService.dll (Microsoft Corporation)
+NETSVC: UsoSvc -> C:\Windows\system32\usocore.dll (Microsoft Corporation)
+NETSVC: UserManager -> C:\Windows\System32\usermgr.dll (Microsoft Corporation)
+NETSVC: RetailDemo -> C:\Windows\system32\RDXService.dll (Microsoft Corporation)
+NETSVC: DcpSvc -> C:\Windows\system32\dcpsvc.dll (Microsoft Corporation)
+NETSVC: NetSetupSvc -> C:\Windows\System32\NetSetupSvc.dll (Microsoft Corporation)
+NETSVCx32: NetSetupSvc -> C:\Windows\SysWOW64\NetSetupSvc.dll ==> No File
+NETSVCx32: UserManager -> C:\Windows\SysWOW64\usermgr.dll ==> No File
+
+==================== One Month Created files and folders ========
+
+(If an entry is included in the fixlist, the file/folder will be moved.)
+
+2015-05-25 10:45 - 2015-05-25 10:46 - 00099571 _____ () C:\Users\Won\Downloads\Addition.txt
+2015-05-25 10:43 - 2015-05-25 11:01 - 00037537 _____ () C:\Users\Won\Downloads\FRST.txt
+2015-05-25 10:43 - 2015-05-25 11:01 - 00000000 ____D () C:\FRST
+2015-05-25 10:42 - 2015-05-25 10:42 - 02108928 _____ (Farbar) C:\Users\Won\Downloads\FRST64.exe
+2015-05-25 10:39 - 2015-05-25 10:39 - 00016148 _____ () C:\WINDOWS\system32\VEX_Won_HistoryPrediction.bin
+2015-05-24 11:00 - 2015-05-24 11:10 - 11024496 _____ (SurfRight B.V.) C:\Users\Won\Downloads\HitmanPro_x64.exe
+2015-05-24 11:00 - 2015-05-24 11:00 - 00868098 _____ () C:\Users\Won\Downloads\ESETPoweliksCleaner.exe_20150524.110008.7048.log
+2015-05-24 11:00 - 2015-05-24 11:00 - 00000022 _____ () C:\Users\Won\Downloads\ESETPoweliksCleaner.exe_20150524.110008.7048.zip
+2015-05-24 10:59 - 2015-05-24 11:00 - 00868164 _____ () C:\Users\Won\Downloads\ESETPoweliksCleaner.exe_20150524.105954.8188.log
+2015-05-24 10:59 - 2015-05-24 10:59 - 00221384 _____ (ESET) C:\Users\Won\Downloads\ESETPoweliksCleaner.exe
+2015-05-24 10:59 - 2015-05-24 10:59 - 00000022 _____ () C:\Users\Won\Downloads\ESETPoweliksCleaner.exe_20150524.105954.8188.zip
+2015-05-24 10:37 - 2015-05-24 10:37 - 00000000 ___HD () C:\OneDriveTemp
+2015-05-23 20:06 - 2015-05-24 10:35 - 00000000 ____D () C:\WINDOWS\Minidump
+2015-05-23 17:25 - 2015-05-23 17:25 - 00000548 _____ () C:\WINDOWS\LkmdfCoInst.log
+2015-05-23 17:22 - 2015-05-24 10:35 - 00003766 _____ () C:\WINDOWS\PFRO.log
+2015-05-23 17:22 - 2015-05-23 17:22 - 05026488 _____ () C:\WINDOWS\system32\FNTCACHE.DAT
+2015-05-23 17:20 - 2015-05-23 17:20 - 00003380 _____ () C:\WINDOWS\System32\Tasks\{34CE5287-8BDD-472B-8CA4-AC21779CB2AE}
+2015-05-23 17:20 - 2015-05-23 17:20 - 00000000 ____D () C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Kaspersky Total Security
+2015-05-23 17:18 - 2015-05-23 20:01 - 00824008 _____ (Kaspersky Lab ZAO) C:\WINDOWS\system32\Drivers\klif.sys
+2015-05-23 17:18 - 2014-11-28 18:19 - 00151240 _____ (Kaspersky Lab ZAO) C:\WINDOWS\system32\Drivers\klflt.sys
+2015-05-23 17:18 - 2014-10-22 21:13 - 00247496 _____ (Kaspersky Lab ZAO) C:\WINDOWS\system32\Drivers\klhk.sys
+2015-05-23 17:15 - 2015-05-23 17:17 - 196444992 _____ (Kaspersky Lab) C:\Users\Won\Downloads\kts15.0.2.361en_7342.exe
+2015-05-23 17:10 - 2015-05-23 17:12 - 00000000 ____D () C:\Users\Won\Documents\Visual Studio 2013
+2015-05-23 16:44 - 2015-05-25 10:42 - 00000191 _____ () C:\WINDOWS\WindowsUpdate.log
+2015-05-23 15:48 - 2015-05-23 15:49 - 00000000 ____D () C:\Users\Default\Documents\Visual Studio 2012
+2015-05-23 15:48 - 2015-05-23 15:49 - 00000000 ____D () C:\Users\Default User\Documents\Visual Studio 2012
+2015-05-22 22:35 - 2015-05-23 12:30 - 00000000 ____D () C:\Users\Won\Documents\Visual Studio 2012
+2015-05-22 22:34 - 2015-05-22 22:34 - 00000000 ____D () C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Silverlight 4 SDK
+2015-05-22 22:29 - 2015-05-22 22:29 - 00002177 _____ () C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Web Platform Installer.lnk
+2015-05-22 22:17 - 2015-05-23 12:33 - 00000000 ____D () C:\Users\Won\Documents\The Witcher 3
+2015-05-22 22:13 - 2015-05-22 22:13 - 00000000 ____D () C:\Program Files\Microsoft Visual Studio 11.0
+2015-05-20 17:40 - 2015-05-20 17:40 - 00000020 ___SH () C:\Users\Won\ntuser.ini
+2015-05-20 17:35 - 2015-05-14 01:07 - 02712576 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\PrintConfig.dll
+2015-05-20 17:28 - 2015-05-20 17:28 - 00001576 _____ () C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Windows Media Player.lnk
+2015-05-20 17:28 - 2015-05-20 17:28 - 00000000 ____D () C:\Users\Default\Documents\Visual Studio 2013
+2015-05-20 17:28 - 2015-05-20 17:28 - 00000000 ____D () C:\Users\Default\AppData\Roaming\Macromedia
+2015-05-20 17:28 - 2015-05-20 17:28 - 00000000 ____D () C:\Users\Default User\Documents\Visual Studio 2013
+2015-05-20 17:28 - 2015-05-20 17:28 - 00000000 ____D () C:\Users\Default User\AppData\Roaming\Macromedia
+2015-05-20 17:15 - 2015-05-24 10:41 - 00968010 _____ () C:\WINDOWS\system32\PerfStringBackup.INI
+2015-05-20 17:15 - 2015-05-23 21:52 - 00000000 ____D () C:\Users\Won
+2015-05-20 17:15 - 2015-05-20 17:40 - 00000000 ___RD () C:\Users\Won\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories
+2015-05-20 17:15 - 2015-05-20 17:34 - 00000000 ____D () C:\Users\Won\3D Objects
+2015-05-20 17:15 - 2015-05-20 17:30 - 00000000 ___RD () C:\Users\Won\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools
+2015-05-20 17:15 - 2015-05-20 17:16 - 00000000 ___RD () C:\Users\Won\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessibility
+2015-05-20 17:15 - 2015-05-20 17:16 - 00000000 ____D () C:\Users\Won\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Maintenance
+2015-05-20 17:15 - 2015-05-20 17:15 - 00925184 _____ () C:\WINDOWS\SysWOW64\PerfStringBackup.INI
+2015-05-20 17:15 - 2015-05-14 01:08 - 00000369 _____ () C:\Users\Won\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Pictures.lnk
+2015-05-20 17:15 - 2015-05-14 01:08 - 00000369 _____ () C:\Users\Won\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Documents.lnk
+2015-05-20 17:13 - 2015-05-24 10:36 - 00000000 ____D () C:\ProgramData\NVIDIA
+2015-05-20 17:13 - 2015-05-23 17:25 - 00018960 _____ (Logitech, Inc.) C:\WINDOWS\system32\Drivers\LNonPnP.sys
+2015-05-20 17:13 - 2015-05-20 17:13 - 00000000 ____H () C:\WINDOWS\system32\Drivers\Msft_User_SensorsSimulatorDriver_01_11_00.Wdf
+2015-05-20 17:13 - 2015-05-20 17:13 - 00000000 ____H () C:\WINDOWS\system32\Drivers\Msft_User_ASMBSW_01_11_00.Wdf
+2015-05-20 17:13 - 2015-05-20 17:13 - 00000000 ____H () C:\WINDOWS\system32\Drivers\Msft_Kernel_TeeDriverx64_01011.Wdf
+2015-05-20 17:13 - 2015-05-20 17:13 - 00000000 ____H () C:\ProgramData\DP45977C.lfl
+2015-05-20 17:13 - 2015-05-20 17:13 - 00000000 ____D () C:\WINDOWS\SysWOW64\RTCOM
+2015-05-20 17:13 - 2015-05-20 17:13 - 00000000 ____D () C:\Program Files\Realtek
+2015-05-20 17:13 - 2015-05-20 17:13 - 00000000 ____D () C:\Program Files\ASUS
+2015-05-20 17:13 - 2015-05-20 17:13 - 00000000 ____D () C:\Program Files (x86)\ASUS
+2015-05-20 17:13 - 2015-05-10 11:41 - 06867272 _____ (NVIDIA Corporation) C:\WINDOWS\system32\nvcpl.dll
+2015-05-20 17:13 - 2015-05-10 11:41 - 03485328 _____ (NVIDIA Corporation) C:\WINDOWS\system32\nvsvc64.dll
+2015-05-20 17:13 - 2015-05-10 11:41 - 02559808 _____ (NVIDIA Corporation) C:\WINDOWS\system32\nvsvcr.dll
+2015-05-20 17:13 - 2015-05-10 11:41 - 00937104 _____ (NVIDIA Corporation) C:\WINDOWS\system32\nvvsvc.exe
+2015-05-20 17:13 - 2015-05-10 11:41 - 00385352 _____ (NVIDIA Corporation) C:\WINDOWS\system32\nvmctray.dll
+2015-05-20 17:13 - 2015-05-10 11:41 - 00062792 _____ (NVIDIA Corporation) C:\WINDOWS\system32\nvshext.dll
+2015-05-20 17:13 - 2015-05-07 08:51 - 04391542 _____ () C:\WINDOWS\system32\nvcoproc.bin
+2015-05-20 17:13 - 2013-07-04 02:32 - 00028672 _____ (ASUSTek Computer Inc.) C:\WINDOWS\SysWOW64\AsIO.dll
+2015-05-20 17:13 - 2013-07-04 02:32 - 00015232 _____ () C:\WINDOWS\SysWOW64\Drivers\AsIO.sys
+2015-05-20 17:12 - 2015-05-20 17:19 - 00000000 ____D () C:\ProgramData\NVIDIA Corporation
+2015-05-20 17:12 - 2015-05-20 17:19 - 00000000 ____D () C:\Program Files\NVIDIA Corporation
+2015-05-20 17:12 - 2015-05-20 17:19 - 00000000 ____D () C:\Program Files (x86)\NVIDIA Corporation
+2015-05-20 17:04 - 2015-05-23 16:21 - 00000000 ___DC () C:\WINDOWS\Panther
+2015-05-20 17:02 - 2015-05-23 16:27 - 00000000 ____D () C:\Windows.old
+2015-05-20 16:54 - 2015-05-20 16:54 - 00008192 _____ () C:\WINDOWS\system32\config\userdiff
+2015-05-20 16:51 - 2015-05-22 22:24 - 00000000 ____D () C:\Program Files (x86)\MSBuild
+2015-05-20 16:51 - 2015-05-20 17:30 - 00000000 ____D () C:\Program Files\MSBuild
+2015-05-20 16:51 - 2015-05-20 16:51 - 00000000 ____D () C:\Program Files\Windows Identity Foundation
+2015-05-20 16:51 - 2015-05-20 16:51 - 00000000 ____D () C:\Program Files\Reference Assemblies
+2015-05-20 16:51 - 2015-05-20 16:51 - 00000000 ____D () C:\Program Files (x86)\Reference Assemblies
+2015-05-20 16:51 - 2015-05-05 17:39 - 00778928 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\PresentationNative_v0300.dll
+2015-05-20 16:51 - 2015-05-05 17:39 - 00102600 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\PresentationCFFRasterizerNative_v0300.dll
+2015-05-20 16:51 - 2015-05-05 17:39 - 00035472 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\TsWpfWrp.exe
+2015-05-20 16:51 - 2015-04-07 13:40 - 01166512 _____ (Microsoft Corporation) C:\WINDOWS\system32\PresentationNative_v0300.dll
+2015-05-20 16:51 - 2015-04-07 13:40 - 00124104 _____ (Microsoft Corporation) C:\WINDOWS\system32\PresentationCFFRasterizerNative_v0300.dll
+2015-05-20 16:51 - 2015-04-07 13:40 - 00035472 _____ (Microsoft Corporation) C:\WINDOWS\system32\TsWpfWrp.exe
+2015-05-19 17:36 - 2015-05-19 17:36 - 00000000 ____D () C:\Program Files (x86)\Mozilla Firefox
+2015-05-18 15:13 - 2015-05-20 17:37 - 00003668 _____ () C:\WINDOWS\System32\Tasks\GoogleUpdateTaskMachineCore1d091c03b09c8b1
+2015-05-15 21:57 - 2015-05-10 11:03 - 00566416 _____ (NVIDIA Corporation) C:\WINDOWS\SysWOW64\nvStreaming.exe
+2015-05-15 21:56 - 2015-05-10 13:12 - 42719048 _____ () C:\WINDOWS\system32\nvcompiler.dll
+2015-05-15 21:56 - 2015-05-10 13:12 - 37741712 _____ () C:\WINDOWS\SysWOW64\nvcompiler.dll
+2015-05-15 21:56 - 2015-05-10 13:12 - 30502544 _____ (NVIDIA Corporation) C:\WINDOWS\system32\nvoglv64.dll
+2015-05-15 21:56 - 2015-05-10 13:12 - 22961808 _____ (NVIDIA Corporation) C:\WINDOWS\SysWOW64\nvoglv32.dll
+2015-05-15 21:56 - 2015-05-10 13:12 - 18238040 _____ (NVIDIA Corporation) C:\WINDOWS\system32\nvwgf2umx.dll
+2015-05-15 21:56 - 2015-05-10 13:12 - 16147056 _____ (NVIDIA Corporation) C:\WINDOWS\system32\nvopencl.dll
+2015-05-15 21:56 - 2015-05-10 13:12 - 15967088 _____ (NVIDIA Corporation) C:\WINDOWS\system32\nvd3dumx.dll
+2015-05-15 21:56 - 2015-05-10 13:12 - 15627688 _____ (NVIDIA Corporation) C:\WINDOWS\SysWOW64\nvwgf2um.dll
+2015-05-15 21:56 - 2015-05-10 13:12 - 14457344 _____ (NVIDIA Corporation) C:\WINDOWS\system32\nvcuda.dll
+2015-05-15 21:56 - 2015-05-10 13:12 - 13265128 _____ (NVIDIA Corporation) C:\WINDOWS\SysWOW64\nvopencl.dll
+2015-05-15 21:56 - 2015-05-10 13:12 - 12937304 _____ (NVIDIA Corporation) C:\WINDOWS\SysWOW64\nvd3dum.dll
+2015-05-15 21:56 - 2015-05-10 13:12 - 11790848 _____ (NVIDIA Corporation) C:\WINDOWS\SysWOW64\nvcuda.dll
+2015-05-15 21:56 - 2015-05-10 13:12 - 11052688 _____ (NVIDIA Corporation) C:\WINDOWS\system32\Drivers\nvlddmkm.sys
+2015-05-15 21:56 - 2015-05-10 13:12 - 03285432 _____ (NVIDIA Corporation) C:\WINDOWS\system32\nvapi64.dll
+2015-05-15 21:56 - 2015-05-10 13:12 - 02906064 _____ (NVIDIA Corporation) C:\WINDOWS\SysWOW64\nvapi.dll
+2015-05-15 21:56 - 2015-05-10 13:12 - 02348688 _____ (NVIDIA Corporation) C:\WINDOWS\system32\nvcuvid.dll
+2015-05-15 21:56 - 2015-05-10 13:12 - 02083472 _____ (NVIDIA Corporation) C:\WINDOWS\SysWOW64\nvcuvid.dll
+2015-05-15 21:56 - 2015-05-10 13:12 - 01898312 _____ (NVIDIA Corporation) C:\WINDOWS\system32\nvdispco6435284.dll
+2015-05-15 21:56 - 2015-05-10 13:12 - 01558848 _____ (NVIDIA Corporation) C:\WINDOWS\system32\nvdispgenco6435284.dll
+2015-05-15 21:56 - 2015-05-10 13:12 - 01156952 _____ (NVIDIA Corporation) C:\WINDOWS\system32\nvumdshimx.dll
+2015-05-15 21:56 - 2015-05-10 13:12 - 01054352 _____ (NVIDIA Corporation) C:\WINDOWS\system32\NvIFR64.dll
+2015-05-15 21:56 - 2015-05-10 13:12 - 01044624 _____ (NVIDIA Corporation) C:\WINDOWS\system32\NvFBC64.dll
+2015-05-15 21:56 - 2015-05-10 13:12 - 01014824 _____ (NVIDIA Corporation) C:\WINDOWS\system32\nvEncMFTH264.dll
+2015-05-15 21:56 - 2015-05-10 13:12 - 00983912 _____ (NVIDIA Corporation) C:\WINDOWS\SysWOW64\nvumdshim.dll
+2015-05-15 21:56 - 2015-05-10 13:12 - 00977040 _____ (NVIDIA Corporation) C:\WINDOWS\SysWOW64\NvIFR.dll
+2015-05-15 21:56 - 2015-05-10 13:12 - 00969032 _____ (NVIDIA Corporation) C:\WINDOWS\SysWOW64\NvFBC.dll
+2015-05-15 21:56 - 2015-05-10 13:12 - 00822720 _____ (NVIDIA Corporation) C:\WINDOWS\SysWOW64\nvEncMFTH264.dll
+2015-05-15 21:56 - 2015-05-10 13:12 - 00502896 _____ (NVIDIA Corporation) C:\WINDOWS\system32\nvEncodeAPI64.dll
+2015-05-15 21:56 - 2015-05-10 13:12 - 00408208 _____ (NVIDIA Corporation) C:\WINDOWS\system32\NvIFROpenGL.dll
+2015-05-15 21:56 - 2015-05-10 13:12 - 00407112 _____ (NVIDIA Corporation) C:\WINDOWS\SysWOW64\nvEncodeAPI.dll
+2015-05-15 21:56 - 2015-05-10 13:12 - 00371016 _____ (NVIDIA Corporation) C:\WINDOWS\system32\nvDecMFTMjpeg.dll
+2015-05-15 21:56 - 2015-05-10 13:12 - 00364360 _____ (NVIDIA Corporation) C:\WINDOWS\SysWOW64\NvIFROpenGL.dll
+2015-05-15 21:56 - 2015-05-10 13:12 - 00330384 _____ (NVIDIA Corporation) C:\WINDOWS\SysWOW64\nvDecMFTMjpeg.dll
+2015-05-15 21:56 - 2015-05-10 13:12 - 00176064 _____ (NVIDIA Corporation) C:\WINDOWS\system32\nvinitx.dll
+2015-05-15 21:56 - 2015-05-10 13:12 - 00154256 _____ (NVIDIA Corporation) C:\WINDOWS\SysWOW64\nvinit.dll
+2015-05-15 21:56 - 2015-05-10 13:12 - 00150832 _____ (NVIDIA Corporation) C:\WINDOWS\system32\nvoglshim64.dll
+2015-05-15 21:56 - 2015-05-10 13:12 - 00128512 _____ (NVIDIA Corporation) C:\WINDOWS\SysWOW64\nvoglshim32.dll
+2015-05-15 21:56 - 2015-05-10 13:12 - 00032079 _____ () C:\WINDOWS\system32\nvinfo.pb
+2015-05-15 21:56 - 2015-04-16 11:03 - 00195912 _____ (NVIDIA Corporation) C:\WINDOWS\system32\Drivers\nvhda64v.sys
+2015-05-15 21:56 - 2015-04-16 11:03 - 00031552 _____ (NVIDIA Corporation) C:\WINDOWS\system32\nvhdap64.dll
+2015-05-15 21:56 - 2015-04-15 23:19 - 01558848 _____ (NVIDIA Corporation) C:\WINDOWS\system32\nvhdagenco6420103.dll
+2015-05-15 20:32 - 2015-05-20 17:37 - 00003574 _____ () C:\WINDOWS\System32\Tasks\GoogleUpdateTaskUserS-1-5-21-3916162953-3734116064-3237655428-1001Core1d08f9145da0873
+2015-05-15 15:16 - 2015-05-15 15:16 - 00000000 ____D () C:\Users\Won\Documents\Autodesk Application Manager
+2015-05-14 03:27 - 2015-05-14 03:27 - 00020480 ___SH () C:\WINDOWS\system32\config\BCD-Template.LOG
+2015-05-14 03:26 - 2015-05-14 03:00 - 00000000 ____D () C:\WINDOWS\DigitalLocker
+2015-05-14 03:26 - 2015-05-14 02:30 - 00000000 ____D () C:\WINDOWS\SysWOW64\qps-ploc
+2015-05-14 03:26 - 2015-05-14 02:30 - 00000000 ____D () C:\WINDOWS\system32\qps-ploc
+2015-05-14 03:26 - 2015-05-14 02:30 - 00000000 ____D () C:\WINDOWS\qps-ploc
+2015-05-14 03:04 - 2015-05-14 01:08 - 00030244 _____ () C:\WINDOWS\Core.xml
+2015-05-14 03:03 - 2015-05-14 03:03 - 00000000 __RHD () C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Tablet PC
+2015-05-14 03:03 - 2015-05-14 03:03 - 00000000 ____D () C:\WINDOWS\ShellNew
+2015-05-14 03:03 - 2015-05-14 03:03 - 00000000 ____D () C:\Program Files\Windows Journal
+2015-05-14 03:01 - 2015-05-14 03:01 - 06355968 _____ (Microsoft Corporation) C:\WINDOWS\system32\NlsData0009.dll
+2015-05-14 03:01 - 2015-05-14 03:01 - 05738496 _____ (Microsoft Corporation) C:\WINDOWS\system32\prm0009.dll
+2015-05-14 03:01 - 2015-05-14 03:01 - 04845568 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\NlsData0009.dll
+2015-05-14 03:01 - 2015-05-14 03:01 - 02628608 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\NlsLexicons0009.dll
+2015-05-14 03:01 - 2015-05-14 03:01 - 02628608 _____ (Microsoft Corporation) C:\WINDOWS\system32\NlsLexicons0009.dll
+2015-05-14 03:01 - 2015-05-14 03:01 - 00000000 ____D () C:\WINDOWS\SKB
+2015-05-14 03:01 - 2015-05-14 03:01 - 00000000 ____D () C:\WINDOWS\OCR
+2015-05-14 03:00 - 2015-05-14 03:00 - 00000000 ____D () C:\WINDOWS\SysWOW64\winrm
+2015-05-14 03:00 - 2015-05-14 03:00 - 00000000 ____D () C:\WINDOWS\SysWOW64\WCN
+2015-05-14 03:00 - 2015-05-14 03:00 - 00000000 ____D () C:\WINDOWS\SysWOW64\sysprep
+2015-05-14 03:00 - 2015-05-14 03:00 - 00000000 ____D () C:\WINDOWS\SysWOW64\slmgr
+2015-05-14 03:00 - 2015-05-14 03:00 - 00000000 ____D () C:\WINDOWS\SysWOW64\Printing_Admin_Scripts
+2015-05-14 03:00 - 2015-05-14 03:00 - 00000000 ____D () C:\WINDOWS\SysWOW64\0409
+2015-05-14 03:00 - 2015-05-14 03:00 - 00000000 ____D () C:\WINDOWS\system32\winrm
+2015-05-14 03:00 - 2015-05-14 03:00 - 00000000 ____D () C:\WINDOWS\system32\WCN
+2015-05-14 03:00 - 2015-05-14 03:00 - 00000000 ____D () C:\WINDOWS\system32\slmgr
+2015-05-14 03:00 - 2015-05-14 03:00 - 00000000 ____D () C:\WINDOWS\system32\Printing_Admin_Scripts
+2015-05-14 03:00 - 2015-05-14 03:00 - 00000000 ____D () C:\WINDOWS\system32\0409
+2015-05-14 02:29 - 2015-05-25 10:45 - 00000000 ____D () C:\ProgramData\USOShared
+2015-05-14 02:29 - 2015-05-14 02:29 - 00016148 _____ () C:\WINDOWS\system32\WIN-O73IIEJ8I9Q_Administrator_ploc_HistoryPrediction.bin
+2015-05-14 02:28 - 2015-05-25 10:42 - 00271419 _____ () C:\WINDOWS\WindowsUpdate_AU_deprecated.log
+2015-05-14 02:28 - 2015-05-24 10:36 - 00000006 ____H () C:\WINDOWS\Tasks\SA.DAT
+2015-05-14 02:28 - 2015-05-20 17:37 - 00002382 _____ () C:\WINDOWS\System32\Tasks\SpeechRuntimeTask
+2015-05-14 02:27 - 2015-05-25 10:40 - 00016228 _____ () C:\WINDOWS\system32\NetSetupSvc.log
+2015-05-14 01:26 - 2015-05-14 01:26 - 00000000 ____D () C:\WINDOWS\Setup
+2015-05-14 01:25 - 2015-05-14 01:09 - 00792056 _____ (Adobe Systems Incorporated) C:\WINDOWS\SysWOW64\FlashPlayerApp.exe
+2015-05-14 01:25 - 2015-05-14 01:09 - 00178168 _____ (Adobe Systems Incorporated) C:\WINDOWS\SysWOW64\FlashPlayerCPLApp.cpl
+2015-05-14 01:18 - 2015-05-20 17:04 - 00262144 _____ () C:\WINDOWS\system32\config\BCD-Template
+2015-05-14 01:18 - 2015-05-14 01:10 - 00228864 _____ (Microsoft Corporation) C:\WINDOWS\system32\msclmd.dll
+2015-05-14 01:18 - 2015-05-14 01:10 - 00215943 _____ () C:\WINDOWS\SysWOW64\dssec.dat
+2015-05-14 01:18 - 2015-05-14 01:10 - 00207872 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\msclmd.dll
+2015-05-14 01:18 - 2015-05-14 01:10 - 00012131 _____ () C:\WINDOWS\system32\OEMDefaultAssociations.xml
+2015-05-14 01:18 - 2015-05-14 01:10 - 00008798 _____ () C:\WINDOWS\SysWOW64\icrav03.rat
+2015-05-14 01:18 - 2015-05-14 01:10 - 00003683 _____ () C:\WINDOWS\system32\Drivers\etc\lmhosts.sam
+2015-05-14 01:18 - 2015-05-14 01:10 - 00001988 _____ () C:\WINDOWS\SysWOW64\ticrf.rat
+2015-05-14 01:18 - 2015-05-14 01:10 - 00001988 _____ () C:\WINDOWS\system32\ticrf.rat
+2015-05-14 01:18 - 2015-05-14 01:10 - 00000741 _____ () C:\WINDOWS\SysWOW64\NOISE.DAT
+2015-05-14 01:18 - 2015-05-14 01:10 - 00000741 _____ () C:\WINDOWS\system32\NOISE.DAT
+2015-05-14 01:17 - 2015-05-14 01:10 - 00215943 _____ () C:\WINDOWS\system32\dssec.dat
+2015-05-14 01:17 - 2015-05-14 01:10 - 00008798 _____ () C:\WINDOWS\system32\icrav03.rat
+2015-05-14 01:17 - 2015-05-14 01:10 - 00000858 _____ () C:\WINDOWS\system32\DefaultQuestions.json
+2015-05-14 01:15 - 2015-05-25 10:40 - 00000000 ____D () C:\WINDOWS\system32\sru
+2015-05-14 01:15 - 2015-05-23 17:19 - 00000000 ___HD () C:\WINDOWS\ELAMBKUP
+2015-05-14 01:15 - 2015-05-22 22:12 - 00000000 ____D () C:\WINDOWS\system32\restore
+2015-05-14 01:15 - 2015-05-22 20:10 - 00000000 ____D () C:\WINDOWS\AppReadiness
+2015-05-14 01:15 - 2015-05-21 05:59 - 00000000 ____D () C:\WINDOWS\appcompat
+2015-05-14 01:15 - 2015-05-20 17:41 - 00000000 ___RD () C:\WINDOWS\PrintDialog
+2015-05-14 01:15 - 2015-05-20 17:41 - 00000000 ___RD () C:\WINDOWS\MiracastView
+2015-05-14 01:15 - 2015-05-20 17:41 - 00000000 ___RD () C:\WINDOWS\ImmersiveControlPanel
+2015-05-14 01:15 - 2015-05-20 17:41 - 00000000 ____D () C:\WINDOWS\WinStore
+2015-05-14 01:15 - 2015-05-20 17:40 - 00000000 ____D () C:\WINDOWS\rescache
+2015-05-14 01:15 - 2015-05-20 17:38 - 00000000 ____D () C:\WINDOWS\Registration
+2015-05-14 01:15 - 2015-05-20 17:36 - 00000000 __RSD () C:\WINDOWS\Media
+2015-05-14 01:15 - 2015-05-20 17:36 - 00000000 __RHD () C:\Users\Public\Libraries
+2015-05-14 01:15 - 2015-05-20 17:30 - 00000000 ____D () C:\WINDOWS\system32\WinBioDatabase
+2015-05-14 01:15 - 2015-05-20 17:30 - 00000000 ____D () C:\WINDOWS\system32\FxsTmp
+2015-05-14 01:15 - 2015-05-20 17:20 - 00000000 ___RD () C:\WINDOWS\PrintDialog3D
+2015-05-14 01:15 - 2015-05-20 17:20 - 00000000 ____D () C:\WINDOWS\SysWOW64\zh-HK
+2015-05-14 01:15 - 2015-05-20 17:20 - 00000000 ____D () C:\WINDOWS\SysWOW64\uk-UA
+2015-05-14 01:15 - 2015-05-20 17:20 - 00000000 ____D () C:\WINDOWS\SysWOW64\tr-TR
+2015-05-14 01:15 - 2015-05-20 17:20 - 00000000 ____D () C:\WINDOWS\SysWOW64\th-TH
+2015-05-14 01:15 - 2015-05-20 17:20 - 00000000 ____D () C:\WINDOWS\SysWOW64\sr-Latn-RS
+2015-05-14 01:15 - 2015-05-20 17:20 - 00000000 ____D () C:\WINDOWS\SysWOW64\sl-SI
+2015-05-14 01:15 - 2015-05-20 17:20 - 00000000 ____D () C:\WINDOWS\SysWOW64\sk-SK
+2015-05-14 01:15 - 2015-05-20 17:20 - 00000000 ____D () C:\WINDOWS\SysWOW64\ro-RO
+2015-05-14 01:15 - 2015-05-20 17:20 - 00000000 ____D () C:\WINDOWS\SysWOW64\lv-LV
+2015-05-14 01:15 - 2015-05-20 17:20 - 00000000 ____D () C:\WINDOWS\SysWOW64\lt-LT
+2015-05-14 01:15 - 2015-05-20 17:20 - 00000000 ____D () C:\WINDOWS\SysWOW64\hr-HR
+2015-05-14 01:15 - 2015-05-20 17:20 - 00000000 ____D () C:\WINDOWS\SysWOW64\he-IL
+2015-05-14 01:15 - 2015-05-20 17:20 - 00000000 ____D () C:\WINDOWS\SysWOW64\et-EE
+2015-05-14 01:15 - 2015-05-20 17:20 - 00000000 ____D () C:\WINDOWS\SysWOW64\en-GB
+2015-05-14 01:15 - 2015-05-20 17:20 - 00000000 ____D () C:\WINDOWS\SysWOW64\bg-BG
+2015-05-14 01:15 - 2015-05-20 17:20 - 00000000 ____D () C:\WINDOWS\SysWOW64\ar-SA
+2015-05-14 01:15 - 2015-05-20 17:20 - 00000000 ____D () C:\WINDOWS\system32\zh-HK
+2015-05-14 01:15 - 2015-05-20 17:20 - 00000000 ____D () C:\WINDOWS\system32\uk-UA
+2015-05-14 01:15 - 2015-05-20 17:20 - 00000000 ____D () C:\WINDOWS\system32\tr-TR
+2015-05-14 01:15 - 2015-05-20 17:20 - 00000000 ____D () C:\WINDOWS\system32\th-TH
+2015-05-14 01:15 - 2015-05-20 17:20 - 00000000 ____D () C:\WINDOWS\system32\sr-Latn-RS
+2015-05-14 01:15 - 2015-05-20 17:20 - 00000000 ____D () C:\WINDOWS\system32\spool
+2015-05-14 01:15 - 2015-05-20 17:20 - 00000000 ____D () C:\WINDOWS\system32\sl-SI
+2015-05-14 01:15 - 2015-05-20 17:20 - 00000000 ____D () C:\WINDOWS\system32\sk-SK
+2015-05-14 01:15 - 2015-05-20 17:20 - 00000000 ____D () C:\WINDOWS\system32\ro-RO
+2015-05-14 01:15 - 2015-05-20 17:20 - 00000000 ____D () C:\WINDOWS\system32\oobe
+2015-05-14 01:15 - 2015-05-20 17:20 - 00000000 ____D () C:\WINDOWS\system32\NDF
+2015-05-14 01:15 - 2015-05-20 17:20 - 00000000 ____D () C:\WINDOWS\system32\lv-LV
+2015-05-14 01:15 - 2015-05-20 17:20 - 00000000 ____D () C:\WINDOWS\system32\lt-LT
+2015-05-14 01:15 - 2015-05-20 17:20 - 00000000 ____D () C:\WINDOWS\system32\InputMethod
+2015-05-14 01:15 - 2015-05-20 17:20 - 00000000 ____D () C:\WINDOWS\system32\hr-HR
+2015-05-14 01:15 - 2015-05-20 17:20 - 00000000 ____D () C:\WINDOWS\system32\he-IL
+2015-05-14 01:15 - 2015-05-20 17:20 - 00000000 ____D () C:\WINDOWS\system32\et-EE
+2015-05-14 01:15 - 2015-05-20 17:20 - 00000000 ____D () C:\WINDOWS\system32\en-GB
+2015-05-14 01:15 - 2015-05-20 17:20 - 00000000 ____D () C:\WINDOWS\system32\bg-BG
+2015-05-14 01:15 - 2015-05-20 17:20 - 00000000 ____D () C:\WINDOWS\system32\ar-SA
+2015-05-14 01:15 - 2015-05-20 17:20 - 00000000 ____D () C:\WINDOWS\LiveKernelReports
+2015-05-14 01:15 - 2015-05-20 17:20 - 00000000 ____D () C:\WINDOWS\InputMethod
+2015-05-14 01:15 - 2015-05-20 17:19 - 00000000 ____D () C:\Program Files\Common Files\microsoft shared
+2015-05-14 01:15 - 2015-05-20 17:17 - 00000000 ____D () C:\WINDOWS\system32\Recovery
+2015-05-14 01:15 - 2015-05-20 17:13 - 00000000 ____D () C:\WINDOWS\Help
+2015-05-14 01:15 - 2015-05-14 03:03 - 00000000 ___RD () C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories
+2015-05-14 01:15 - 2015-05-14 03:03 - 00000000 ____D () C:\WINDOWS\Web
+2015-05-14 01:15 - 2015-05-14 03:03 - 00000000 ____D () C:\WINDOWS\PolicyDefinitions
+2015-05-14 01:15 - 2015-05-14 03:00 - 00000000 ___SD () C:\WINDOWS\SysWOW64\F12
+2015-05-14 01:15 - 2015-05-14 03:00 - 00000000 ___SD () C:\WINDOWS\SysWOW64\DiagSvcs
+2015-05-14 01:15 - 2015-05-14 03:00 - 00000000 ___SD () C:\WINDOWS\system32\F12
+2015-05-14 01:15 - 2015-05-14 03:00 - 00000000 ___SD () C:\WINDOWS\system32\dsc
+2015-05-14 01:15 - 2015-05-14 03:00 - 00000000 ___SD () C:\WINDOWS\system32\DiagSvcs
+2015-05-14 01:15 - 2015-05-14 03:00 - 00000000 ____D () C:\WINDOWS\SysWOW64\setup
+2015-05-14 01:15 - 2015-05-14 03:00 - 00000000 ____D () C:\WINDOWS\SysWOW64\oobe
+2015-05-14 01:15 - 2015-05-14 03:00 - 00000000 ____D () C:\WINDOWS\SysWOW64\MUI
+2015-05-14 01:15 - 2015-05-14 03:00 - 00000000 ____D () C:\WINDOWS\SysWOW64\Com
+2015-05-14 01:15 - 2015-05-14 03:00 - 00000000 ____D () C:\WINDOWS\system32\WinBioPlugIns
+2015-05-14 01:15 - 2015-05-14 03:00 - 00000000 ____D () C:\WINDOWS\system32\SystemResetPlatform
+2015-05-14 01:15 - 2015-05-14 03:00 - 00000000 ____D () C:\WINDOWS\system32\setup
+2015-05-14 01:15 - 2015-05-14 03:00 - 00000000 ____D () C:\WINDOWS\system32\MUI
+2015-05-14 01:15 - 2015-05-14 03:00 - 00000000 ____D () C:\WINDOWS\system32\migwiz
+2015-05-14 01:15 - 2015-05-14 03:00 - 00000000 ____D () C:\WINDOWS\system32\Com
+2015-05-14 01:15 - 2015-05-14 03:00 - 00000000 ____D () C:\WINDOWS\IME
+2015-05-14 01:15 - 2015-05-14 03:00 - 00000000 ____D () C:\Program Files\Windows Photo Viewer
+2015-05-14 01:15 - 2015-05-14 03:00 - 00000000 ____D () C:\Program Files\Windows Defender
+2015-05-14 01:15 - 2015-05-14 03:00 - 00000000 ____D () C:\Program Files\Common Files\System
+2015-05-14 01:15 - 2015-05-14 03:00 - 00000000 ____D () C:\Program Files (x86)\Windows Photo Viewer
+2015-05-14 01:15 - 2015-05-14 03:00 - 00000000 ____D () C:\Program Files (x86)\Windows Defender
+2015-05-14 01:15 - 2015-05-14 02:29 - 00000000 ____D () C:\ProgramData\USOPrivate
+2015-05-14 01:15 - 2015-05-14 01:18 - 00000000 ___SD () C:\WINDOWS\SysWOW64\Nui
+2015-05-14 01:15 - 2015-05-14 01:18 - 00000000 ___SD () C:\WINDOWS\system32\Nui
+2015-05-14 01:15 - 2015-05-14 01:18 - 00000000 ____D () C:\WINDOWS\SysWOW64\WinMetadata
+2015-05-14 01:15 - 2015-05-14 01:18 - 00000000 ____D () C:\WINDOWS\SysWOW64\sr-Latn-CS
+2015-05-14 01:15 - 2015-05-14 01:18 - 00000000 ____D () C:\WINDOWS\SysWOW64\sppui
+2015-05-14 01:15 - 2015-05-14 01:18 - 00000000 ____D () C:\WINDOWS\SysWOW64\Recovery
+2015-05-14 01:15 - 2015-05-14 01:18 - 00000000 ____D () C:\WINDOWS\SysWOW64\MSDRM
+2015-05-14 01:15 - 2015-05-14 01:18 - 00000000 ____D () C:\WINDOWS\SysWOW64\migwiz
+2015-05-14 01:15 - 2015-05-14 01:18 - 00000000 ____D () C:\WINDOWS\SysWOW64\InstallShield
+2015-05-14 01:15 - 2015-05-14 01:18 - 00000000 ____D () C:\WINDOWS\SysWOW64\icsxml
+2015-05-14 01:15 - 2015-05-14 01:18 - 00000000 ____D () C:\WINDOWS\SysWOW64\fr-CA
+2015-05-14 01:15 - 2015-05-14 01:18 - 00000000 ____D () C:\WINDOWS\SysWOW64\es-MX
+2015-05-14 01:15 - 2015-05-14 01:18 - 00000000 ____D () C:\WINDOWS\SysWOW64\Bthprops
+2015-05-14 01:15 - 2015-05-14 01:18 - 00000000 ____D () C:\WINDOWS\system32\WinMetadata
+2015-05-14 01:15 - 2015-05-14 01:18 - 00000000 ____D () C:\WINDOWS\system32\sr-Latn-CS
+2015-05-14 01:15 - 2015-05-14 01:18 - 00000000 ____D () C:\WINDOWS\system32\sppui
+2015-05-14 01:15 - 2015-05-14 01:18 - 00000000 ____D () C:\WINDOWS\system32\SecureBootUpdates
+2015-05-14 01:15 - 2015-05-14 01:18 - 00000000 ____D () C:\WINDOWS\system32\MsDtc
+2015-05-14 01:15 - 2015-05-14 01:18 - 00000000 ____D () C:\WINDOWS\system32\MSDRM
+2015-05-14 01:15 - 2015-05-14 01:18 - 00000000 ____D () C:\WINDOWS\system32\MailContactsCalendarSync
+2015-05-14 01:15 - 2015-05-14 01:18 - 00000000 ____D () C:\WINDOWS\system32\icsxml
+2015-05-14 01:15 - 2015-05-14 01:18 - 00000000 ____D () C:\WINDOWS\system32\ias
+2015-05-14 01:15 - 2015-05-14 01:18 - 00000000 ____D () C:\WINDOWS\system32\fr-CA
+2015-05-14 01:15 - 2015-05-14 01:18 - 00000000 ____D () C:\WINDOWS\system32\es-MX
+2015-05-14 01:15 - 2015-05-14 01:18 - 00000000 ____D () C:\WINDOWS\system32\Bthprops
+2015-05-14 01:15 - 2015-05-14 01:18 - 00000000 ____D () C:\WINDOWS\system32\appraiser
+2015-05-14 01:15 - 2015-05-14 01:17 - 00000000 ___RD () C:\WINDOWS\Offline Web Pages
+2015-05-14 01:15 - 2015-05-14 01:17 - 00000000 ____D () C:\WINDOWS\system\Speech
+2015-05-14 01:15 - 2015-05-14 01:17 - 00000000 ____D () C:\WINDOWS\Provisioning
+2015-05-14 01:15 - 2015-05-14 01:17 - 00000000 ____D () C:\WINDOWS\L2Schemas
+2015-05-14 01:15 - 2015-05-14 01:16 - 00000000 ___RD () C:\WINDOWS\DesktopTileResources
+2015-05-14 01:15 - 2015-05-14 01:16 - 00000000 ___RD () C:\Users\Default\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools
+2015-05-14 01:15 - 2015-05-14 01:16 - 00000000 ___RD () C:\Users\Default\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories
+2015-05-14 01:15 - 2015-05-14 01:16 - 00000000 ___RD () C:\Users\Default\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessibility
+2015-05-14 01:15 - 2015-05-14 01:16 - 00000000 ___RD () C:\Users\Default User\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools
+2015-05-14 01:15 - 2015-05-14 01:16 - 00000000 ___RD () C:\Users\Default User\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories
+2015-05-14 01:15 - 2015-05-14 01:16 - 00000000 ___RD () C:\Users\Default User\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessibility
+2015-05-14 01:15 - 2015-05-14 01:16 - 00000000 ___RD () C:\ProgramData\Microsoft\Windows\Start Menu\Programs\System Tools
+2015-05-14 01:15 - 2015-05-14 01:16 - 00000000 ___RD () C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessibility
+2015-05-14 01:15 - 2015-05-14 01:16 - 00000000 ____D () C:\WINDOWS\Cursors
+2015-05-14 01:15 - 2015-05-14 01:16 - 00000000 ____D () C:\WINDOWS\addins
+2015-05-14 01:15 - 2015-05-14 01:16 - 00000000 ____D () C:\Users\Default\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Maintenance
+2015-05-14 01:15 - 2015-05-14 01:16 - 00000000 ____D () C:\Users\Default User\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Maintenance
+2015-05-14 01:15 - 2015-05-14 01:16 - 00000000 ____D () C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Maintenance
+2015-05-14 01:15 - 2015-05-14 01:16 - 00000000 ____D () C:\Program Files\Windows Portable Devices
+2015-05-14 01:15 - 2015-05-14 01:16 - 00000000 ____D () C:\Program Files\Windows Multimedia Platform
+2015-05-14 01:15 - 2015-05-14 01:16 - 00000000 ____D () C:\Program Files\Common Files\Services
+2015-05-14 01:15 - 2015-05-14 01:16 - 00000000 ____D () C:\Program Files (x86)\Windows Portable Devices
+2015-05-14 01:15 - 2015-05-14 01:16 - 00000000 ____D () C:\Program Files (x86)\Windows Multimedia Platform
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 __SHD () C:\Program Files\Windows Sidebar
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 __SHD () C:\Program Files (x86)\Windows Sidebar
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ___SD () C:\WINDOWS\SysWOW64\Configuration
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ___SD () C:\WINDOWS\system32\Configuration
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ___SD () C:\Program Files\WindowsPowerShell
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ___SD () C:\Program Files (x86)\WindowsPowerShell
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ____D () C:\WINDOWS\Vss
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ____D () C:\WINDOWS\vpnplugins
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ____D () C:\WINDOWS\tracing
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ____D () C:\WINDOWS\TAPI
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ____D () C:\WINDOWS\SysWOW64\WindowsPowerShell
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ____D () C:\WINDOWS\SysWOW64\sru
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ____D () C:\WINDOWS\SysWOW64\spp
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ____D () C:\WINDOWS\SysWOW64\Speech_OneCore
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ____D () C:\WINDOWS\SysWOW64\Speech
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ____D () C:\WINDOWS\SysWOW64\SMI
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ____D () C:\WINDOWS\SysWOW64\restore
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ____D () C:\WINDOWS\SysWOW64\RasToast
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ____D () C:\WINDOWS\SysWOW64\ras
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ____D () C:\WINDOWS\SysWOW64\networklist
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ____D () C:\WINDOWS\SysWOW64\NDF
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ____D () C:\WINDOWS\SysWOW64\MsDtc
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ____D () C:\WINDOWS\SysWOW64\Macromed
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ____D () C:\WINDOWS\SysWOW64\Licenses
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ____D () C:\WINDOWS\SysWOW64\Ipmi
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ____D () C:\WINDOWS\SysWOW64\InputMethod
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ____D () C:\WINDOWS\SysWOW64\inetsrv
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ____D () C:\WINDOWS\SysWOW64\IME
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ____D () C:\WINDOWS\SysWOW64\GroupPolicy
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ____D () C:\WINDOWS\SysWOW64\FxsTmp
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ____D () C:\WINDOWS\SysWOW64\AppLocker
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ____D () C:\WINDOWS\SystemResources
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ____D () C:\WINDOWS\system32\winevt
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ____D () C:\WINDOWS\system32\WindowsPowerShell
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ____D () C:\WINDOWS\system32\spp
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ____D () C:\WINDOWS\system32\Speech_OneCore
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ____D () C:\WINDOWS\system32\Speech
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ____D () C:\WINDOWS\system32\RasToast
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ____D () C:\WINDOWS\system32\ras
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ____D () C:\WINDOWS\system32\ProximityToast
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ____D () C:\WINDOWS\system32\PointOfService
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ____D () C:\WINDOWS\system32\networklist
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ____D () C:\WINDOWS\system32\Macromed
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ____D () C:\WINDOWS\system32\Licenses
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ____D () C:\WINDOWS\system32\Ipmi
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ____D () C:\WINDOWS\system32\inetsrv
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ____D () C:\WINDOWS\system32\IME
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ____D () C:\WINDOWS\system32\config\Journal
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ____D () C:\WINDOWS\system32\AppLocker
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ____D () C:\WINDOWS\System
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ____D () C:\WINDOWS\Speech_OneCore
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ____D () C:\WINDOWS\Speech
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ____D () C:\WINDOWS\security
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ____D () C:\WINDOWS\schemas
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ____D () C:\WINDOWS\SchCache
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ____D () C:\WINDOWS\Resources
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ____D () C:\WINDOWS\PLA
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ____D () C:\WINDOWS\Performance
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ____D () C:\WINDOWS\Globalization
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ____D () C:\WINDOWS\Branding
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ____D () C:\Users\Default\3D Objects
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ____D () C:\ProgramData\Comms
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ____D () C:\Program Files\Windows NT
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ____D () C:\Program Files (x86)\Windows NT
+2015-05-14 01:15 - 2015-05-14 01:15 - 00000000 ____D () C:\Data
+2015-05-14 01:09 - 2015-05-14 03:03 - 02523648 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\InkAnalysis.dll
+2015-05-14 01:09 - 2015-05-14 03:03 - 01948672 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\SensorsCpl.dll
+2015-05-14 01:09 - 2015-05-14 03:03 - 01948672 _____ (Microsoft Corporation) C:\WINDOWS\system32\SensorsCpl.dll
+2015-05-14 01:09 - 2015-05-14 03:03 - 00578048 _____ (Microsoft Corporation) C:\WINDOWS\system32\Windows.Devices.Sensors.dll
+2015-05-14 01:09 - 2015-05-14 03:03 - 00433152 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\Windows.Devices.Sensors.dll
+2015-05-14 01:09 - 2015-05-14 03:03 - 00308736 _____ (Microsoft Corporation) C:\WINDOWS\system32\SensorsApi.dll
+2015-05-14 01:09 - 2015-05-14 03:03 - 00273336 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\rdpendp.dll
+2015-05-14 01:09 - 2015-05-14 03:03 - 00271360 _____ (Microsoft Corporation) C:\WINDOWS\system32\umrdp.dll
+2015-05-14 01:09 - 2015-05-14 03:03 - 00249344 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\SensorsApi.dll
+2015-05-14 01:09 - 2015-05-14 03:03 - 00176128 _____ (Microsoft Corporation) C:\WINDOWS\system32\sensrsvc.dll
+2015-05-14 01:09 - 2015-05-14 03:03 - 00173568 _____ (Microsoft Corporation) C:\WINDOWS\system32\Drivers\rdpdr.sys
+2015-05-14 01:09 - 2015-05-14 03:03 - 00140288 _____ (Microsoft Corporation) C:\WINDOWS\system32\SensorsClassExtension.dll
+2015-05-14 01:09 - 2015-05-14 03:03 - 00045568 _____ (Microsoft Corporation) C:\WINDOWS\system32\dfdts.dll
+2015-05-14 01:09 - 2015-05-14 03:03 - 00032256 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\rfxvmt.dll
+2015-05-14 01:09 - 2015-05-14 03:03 - 00027136 _____ (Microsoft Corporation) C:\WINDOWS\system32\SensorPerformanceEvents.dll
+2015-05-14 01:09 - 2015-05-14 03:03 - 00026112 _____ (Microsoft Corporation) C:\WINDOWS\system32\jnwmon.dll
+2015-05-14 01:09 - 2015-05-14 03:03 - 00020992 _____ (Microsoft Corporation) C:\WINDOWS\system32\SensorCustomAdbAlgorithm.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 28855488 _____ (Microsoft Corporation) C:\WINDOWS\system32\WindowsCodecsRaw.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 28081200 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\WindowsCodecsRaw.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 19408384 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\mshtml.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 19175424 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\edgehtml.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 14218240 _____ (Microsoft Corporation) C:\WINDOWS\system32\wmp.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 12564480 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\wmp.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 11313152 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\ieframe.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 09374208 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\wmploc.DLL
+2015-05-14 01:09 - 2015-05-14 01:09 - 09374208 _____ (Microsoft Corporation) C:\WINDOWS\system32\wmploc.DLL
+2015-05-14 01:09 - 2015-05-14 01:09 - 05360640 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\Chakra.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 04644864 _____ (Microsoft Corporation) C:\WINDOWS\system32\xpsrchvw.exe
+2015-05-14 01:09 - 2015-05-14 01:09 - 03586560 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\jscript9.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 03547136 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\xpsrchvw.exe
+2015-05-14 01:09 - 2015-05-14 01:09 - 02755072 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\mshtml.tlb
+2015-05-14 01:09 - 2015-05-14 01:09 - 02366208 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\WMVCORE.DLL
+2015-05-14 01:09 - 2015-05-14 01:09 - 02113536 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\Wpc.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 02093568 _____ (Microsoft Corporation) C:\WINDOWS\system32\wpdshext.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 02036736 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\inetcpl.cpl
+2015-05-14 01:09 - 2015-05-14 01:09 - 01976320 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\wpdshext.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 01569792 _____ (Microsoft Corporation) C:\WINDOWS\system32\wbengine.exe
+2015-05-14 01:09 - 2015-05-14 01:09 - 01415680 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\ieapfltr.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 01054912 _____ (Microsoft Corporation) C:\WINDOWS\system32\drmv2clt.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 01054720 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\WMNetMgr.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00987848 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\msvcr120_clr0400.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00949248 _____ (Microsoft Corporation) C:\WINDOWS\system32\WFS.exe
+2015-05-14 01:09 - 2015-05-14 01:09 - 00925184 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\FXSRESM.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00925184 _____ (Microsoft Corporation) C:\WINDOWS\system32\FXSRESM.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00916992 _____ (Microsoft Corporation) C:\WINDOWS\system32\XpsFilt.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00901824 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\drmv2clt.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00878592 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\WebcamUi.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00859136 _____ (Microsoft Corporation) C:\WINDOWS\system32\FXSST.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00796160 _____ (Microsoft Corporation) C:\WINDOWS\system32\blackbox.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00690016 _____ (Microsoft Corporation) C:\WINDOWS\system32\msvcp120_clr0400.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00675840 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\msfeeds.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00669184 _____ (Microsoft Corporation) C:\WINDOWS\system32\WFSR.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00650752 _____ (Microsoft Corporation) C:\WINDOWS\system32\FXSSVC.exe
+2015-05-14 01:09 - 2015-05-14 01:09 - 00648704 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\jscript.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00640000 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\blackbox.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00631808 _____ (Microsoft Corporation) C:\WINDOWS\system32\PortableDeviceApi.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00626688 _____ (Microsoft Corporation) C:\WINDOWS\system32\FXSCOMEX.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00617472 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\XpsFilt.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00609280 _____ (Microsoft Corporation) C:\WINDOWS\system32\wmdrmsdk.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00595968 _____ (Microsoft Corporation) C:\WINDOWS\system32\wpd_ci.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00588464 _____ (Microsoft Corporation) C:\WINDOWS\system32\wmdrmdev.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00582144 _____ (Microsoft Corporation) C:\WINDOWS\system32\PhotoScreensaver.scr
+2015-05-14 01:09 - 2015-05-14 01:09 - 00574976 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\Chakradiag.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00526848 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\jscript9diag.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00524288 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\FXSCOMEX.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00520704 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\wmdrmsdk.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00515072 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\PortableDeviceApi.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00514048 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\PhotoScreensaver.scr
+2015-05-14 01:09 - 2015-05-14 01:09 - 00513536 _____ (Microsoft Corporation) C:\WINDOWS\system32\mpunits.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00495472 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\wmdrmdev.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00484552 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\msvcp120_clr0400.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00472064 _____ (Microsoft Corporation) C:\WINDOWS\system32\srcore.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00471552 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\ieui.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00471552 _____ (Microsoft Corporation) C:\WINDOWS\system32\wmdrmnet.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00440832 _____ (Microsoft Corporation) C:\WINDOWS\system32\PortableDeviceStatus.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00433664 _____ (Microsoft Corporation) C:\WINDOWS\system32\msscp.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00429568 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\PortableDeviceStatus.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00429056 _____ (Microsoft Corporation) C:\WINDOWS\system32\FXSCOMPOSE.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00428544 _____ (Microsoft Corporation) C:\WINDOWS\system32\mswmdm.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00421888 _____ (Microsoft Corporation) C:\WINDOWS\system32\DscCore.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00411648 _____ (Microsoft Corporation) C:\WINDOWS\system32\FXSTIFF.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00411136 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\wmdrmnet.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00399872 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\dxtmsft.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00388520 _____ (Microsoft Corporation) C:\WINDOWS\system32\wmpps.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00379392 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\provsvc.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00366080 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\P2PGraph.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00360960 _____ (Microsoft Corporation) C:\WINDOWS\system32\WPDSp.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00353792 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\NetworkCollectionAgent.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00351744 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\msscp.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00349696 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\mswmdm.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00345600 _____ (Microsoft Corporation) C:\WINDOWS\system32\photowiz.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00343552 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\html.iec
+2015-05-14 01:09 - 2015-05-14 01:09 - 00335872 _____ (Microsoft Corporation) C:\WINDOWS\system32\drmmgrtn.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00325632 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\iedkcs32.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00322048 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\srchadmin.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00308736 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\WPDSp.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00304128 _____ (Microsoft Corporation) C:\WINDOWS\system32\wcl.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00298672 _____ (Microsoft Corporation) C:\WINDOWS\system32\wmpeffects.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00290816 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\photowiz.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00286720 _____ (Microsoft Corporation) C:\WINDOWS\system32\wbadmin.exe
+2015-05-14 01:09 - 2015-05-14 01:09 - 00285184 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\ieproxy.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00285184 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\drmmgrtn.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00283136 _____ (Microsoft Corporation) C:\WINDOWS\system32\FXSAPI.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00274432 _____ (Microsoft Corporation) C:\WINDOWS\system32\wisp.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00269312 _____ (Microsoft Corporation) C:\WINDOWS\system32\rstrui.exe
+2015-05-14 01:09 - 2015-05-14 01:09 - 00265216 _____ (Microsoft Corporation) C:\WINDOWS\system32\cewmdm.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00254464 _____ (Microsoft Corporation) C:\WINDOWS\system32\FXST30.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00252416 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\dxtrans.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00251688 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\wmpeffects.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00249856 _____ (Microsoft Corporation) C:\WINDOWS\system32\srrstr.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00247808 _____ (Microsoft Corporation) C:\WINDOWS\system32\elshyph.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00246272 _____ (Microsoft Corporation) C:\WINDOWS\system32\FXSCOVER.exe
+2015-05-14 01:09 - 2015-05-14 01:09 - 00244448 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\WMASF.DLL
+2015-05-14 01:09 - 2015-05-14 01:09 - 00243200 _____ (Microsoft Corporation) C:\WINDOWS\system32\mpeval.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00240128 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\audiodev.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00236544 _____ (Microsoft Corporation) C:\WINDOWS\system32\unregmp2.exe
+2015-05-14 01:09 - 2015-05-14 01:09 - 00235008 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\url.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00235008 _____ (Microsoft Corporation) C:\WINDOWS\system32\wmpdxm.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00231936 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\FXSAPI.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00230912 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\cewmdm.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00229888 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\webcheck.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00226816 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\drt.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00221696 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\spp.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00220672 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\wisp.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00198656 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\elshyph.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00197632 _____ (Windows (R) Win 7 DDK provider) C:\WINDOWS\system32\DscCoreConfProv.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00196096 _____ (Microsoft Corporation) C:\WINDOWS\system32\PortableDeviceWMDRM.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00194048 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\unregmp2.exe
+2015-05-14 01:09 - 2015-05-14 01:09 - 00187904 _____ (Microsoft Corporation) C:\WINDOWS\system32\PortableDeviceTypes.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00183296 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\p2pnetsh.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00182784 _____ (Microsoft Corporation) C:\WINDOWS\system32\FXSUTILITY.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00176128 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\PortableDeviceWMDRM.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00174592 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\P2P.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00174080 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\wmpdxm.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00162816 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\msrdc.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00160768 _____ (Microsoft Corporation) C:\WINDOWS\system32\PortableDeviceWiaCompat.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00153544 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\wmpps.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00152064 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\iexpress.exe
+2015-05-14 01:09 - 2015-05-14 01:09 - 00151552 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\wmidx.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00147968 _____ (Microsoft Corporation) C:\WINDOWS\system32\TabSvc.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00147456 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\PortableDeviceTypes.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00140288 _____ (Windows (R) Win 7 DDK provider) C:\WINDOWS\SysWOW64\DscCoreConfProv.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00138752 _____ (Microsoft Corporation) C:\WINDOWS\system32\msnetobj.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00136192 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\wextract.exe
+2015-05-14 01:09 - 2015-05-14 01:09 - 00134656 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\PortableDeviceWiaCompat.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00132096 _____ (Microsoft Corporation) C:\WINDOWS\system32\wclPowrProf.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00130560 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\occache.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00129024 _____ (Microsoft Corporation) C:\WINDOWS\system32\PortableDeviceClassExtension.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00127488 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\iepeers.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00127488 _____ (Microsoft Corporation) C:\WINDOWS\system32\wmpshell.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00125952 _____ (Microsoft Corporation) C:\WINDOWS\system32\wclUnicode.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00117760 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\msnetobj.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00115200 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\ieUnatt.exe
+2015-05-14 01:09 - 2015-05-14 01:09 - 00113664 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\PortableDeviceClassExtension.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00112128 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\IEAdvpack.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00111104 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\racpldlg.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00108032 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\msra.exe
+2015-05-14 01:09 - 2015-05-14 01:09 - 00104960 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\FXSXP32.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00102400 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\wmpshell.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00102400 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\raserver.exe
+2015-05-14 01:09 - 2015-05-14 01:09 - 00101376 _____ (Microsoft Corporation) C:\WINDOWS\system32\whealogr.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00100352 _____ (Microsoft Corporation) C:\WINDOWS\system32\XPSSHHDR.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00094720 _____ (Microsoft Corporation) C:\WINDOWS\system32\wmdmps.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00089600 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\iesysprep.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00089600 _____ (Microsoft Corporation) C:\WINDOWS\system32\FXSCOM.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00089088 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\inseng.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00086016 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\logagent.exe
+2015-05-14 01:09 - 2015-05-14 01:09 - 00086016 _____ (Microsoft Corporation) C:\WINDOWS\system32\srhelper.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00084992 _____ (Microsoft Corporation) C:\WINDOWS\system32\wpdbusenum.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00082432 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\mshtmled.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00081408 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\XPSSHHDR.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00079360 _____ (Microsoft Corporation) C:\WINDOWS\system32\FXSROUTE.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00078848 _____ (Microsoft Corporation) C:\WINDOWS\SysWOW64\FXSCOM.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00077312 _____ (Microsoft Corporation) C:\WINDOWS\system32\BlbEvents.dll
+2015-05-14 01:09 - 2015-05-14 01:09 - 00076060 _____ () C:\WINDOWS\SysWOW64\xpsrchvw.xml
+2015-05-14 01:09 - 2015-05-14 01:09 - 00076060 _____ () C:\WINDOWS\system32\xpsrchvw.xml
